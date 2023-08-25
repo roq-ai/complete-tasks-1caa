@@ -1,0 +1,2672 @@
+[
+  {
+    "offer": [
+      {
+        "id": "d29ff741-15ec-418b-ae4c-ec49c4158540",
+        "title": "Job Opportunity",
+        "description": "Apply now and join our team!",
+        "status": "Active",
+        "start_date": "2023-08-25T06:21:13.980Z",
+        "end_date": "2023-08-25T14:35:36.086Z",
+        "created_at": "2023-08-24T22:38:48.249Z",
+        "updated_at": "2023-08-24T21:45:07.795Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "27ae4e1c-5b17-4fe2-95a7-df97135c64a4",
+        "title": "Special Discount",
+        "description": "Get 50% off on selected items",
+        "status": "Expired",
+        "start_date": "2023-08-24T19:31:38.026Z",
+        "end_date": "2023-08-25T01:46:26.751Z",
+        "created_at": "2023-08-25T02:03:41.021Z",
+        "updated_at": "2023-08-24T19:34:11.457Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f77c8af1-cef0-4d40-959d-bb889c1568d6",
+        "title": "Limited Time Offer",
+        "description": "Don't miss out on this amazing offer",
+        "status": "Pending",
+        "start_date": "2023-08-25T06:53:55.456Z",
+        "end_date": "2023-08-24T23:56:33.849Z",
+        "created_at": "2023-08-25T12:10:47.959Z",
+        "updated_at": "2023-08-25T09:03:13.173Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0fbf1acb-228d-4614-8ce9-0768a9ecbcb8",
+        "title": "Exclusive Deal",
+        "description": "Be the first to experience our latest product",
+        "status": "Approved",
+        "start_date": "2023-08-25T11:13:26.866Z",
+        "end_date": "2023-08-24T22:46:26.612Z",
+        "created_at": "2023-08-25T03:01:43.229Z",
+        "updated_at": "2023-08-25T14:20:23.944Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "55255acd-de9f-44f6-8548-8972f9ab9259",
+        "title": "New Product Launch",
+        "description": "Limited quantity available, grab yours now",
+        "status": "Rejected",
+        "start_date": "2023-08-25T12:58:22.064Z",
+        "end_date": "2023-08-25T04:03:38.997Z",
+        "created_at": "2023-08-24T21:01:25.839Z",
+        "updated_at": "2023-08-25T14:38:44.075Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "task": [
+      {
+        "id": "2d002491-e6f6-4023-a337-772b9ad6d0ce",
+        "title": "Complete Project Report",
+        "description": "Compile all the necessary information and create a comprehensive report",
+        "status": "In Progress",
+        "start_date": "2023-08-25T08:21:13.235Z",
+        "end_date": "2023-08-25T04:41:21.540Z",
+        "created_at": "2023-08-24T23:29:43.205Z",
+        "updated_at": "2023-08-25T07:16:31.601Z",
+        "offer_id": "27ae4e1c-5b17-4fe2-95a7-df97135c64a4"
+      },
+      {
+        "id": "f90f6f3f-b22f-439d-ab5a-068b9a4f1091",
+        "title": "Prepare Presentation",
+        "description": "Design an engaging presentation for the upcoming meeting",
+        "status": "Completed",
+        "start_date": "2023-08-25T13:35:52.340Z",
+        "end_date": "2023-08-25T17:42:07.738Z",
+        "created_at": "2023-08-24T19:21:49.343Z",
+        "updated_at": "2023-08-25T00:32:59.198Z",
+        "offer_id": "f77c8af1-cef0-4d40-959d-bb889c1568d6"
+      },
+      {
+        "id": "c070baae-8c5f-42bc-9102-22645445ee7d",
+        "title": "Review Code Quality",
+        "description": "Analyze the codebase and identify areas for improvement",
+        "status": "Pending",
+        "start_date": "2023-08-25T03:46:43.726Z",
+        "end_date": "2023-08-24T22:34:32.099Z",
+        "created_at": "2023-08-25T08:21:05.300Z",
+        "updated_at": "2023-08-24T22:06:59.616Z",
+        "offer_id": "f77c8af1-cef0-4d40-959d-bb889c1568d6"
+      },
+      {
+        "id": "64d924ea-a101-403d-9c8c-3148d1deaa6b",
+        "title": "Conduct User Testing",
+        "description": "Gather user feedback through testing sessions",
+        "status": "On Hold",
+        "start_date": "2023-08-24T21:47:49.532Z",
+        "end_date": "2023-08-24T21:10:08.899Z",
+        "created_at": "2023-08-25T03:58:00.014Z",
+        "updated_at": "2023-08-25T07:27:51.782Z",
+        "offer_id": "55255acd-de9f-44f6-8548-8972f9ab9259"
+      },
+      {
+        "id": "d58010cf-1e86-4ad6-89ef-d6d26a9f6ce9",
+        "title": "Create Marketing Strategy",
+        "description": "Develop a strategic plan to promote the product",
+        "status": "Cancelled",
+        "start_date": "2023-08-25T10:09:29.135Z",
+        "end_date": "2023-08-24T22:36:34.406Z",
+        "created_at": "2023-08-25T19:05:37.960Z",
+        "updated_at": "2023-08-25T02:29:54.757Z",
+        "offer_id": "27ae4e1c-5b17-4fe2-95a7-df97135c64a4"
+      }
+    ],
+    "screenshot": [
+      {
+        "id": "6407c4b9-a250-49c3-a421-f1fc02770127",
+        "url": "https://example.com/screenshot1.png",
+        "upload_date": "2023-08-25T01:59:36.376Z",
+        "status": "Approved",
+        "created_at": "2023-08-25T10:01:16.975Z",
+        "updated_at": "2023-08-25T01:46:30.501Z",
+        "task_id": "64d924ea-a101-403d-9c8c-3148d1deaa6b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f0417726-fd42-4a5e-b67d-f4c7a892d54d",
+        "url": "https://example.com/screenshot2.png",
+        "upload_date": "2023-08-24T20:43:39.920Z",
+        "status": "Pending",
+        "created_at": "2023-08-25T16:51:50.073Z",
+        "updated_at": "2023-08-25T06:39:40.847Z",
+        "task_id": "d58010cf-1e86-4ad6-89ef-d6d26a9f6ce9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aa1d6db3-d104-4925-a7e5-f0fa23228aaa",
+        "url": "https://example.com/screenshot3.png",
+        "upload_date": "2023-08-25T14:31:25.343Z",
+        "status": "Rejected",
+        "created_at": "2023-08-25T08:44:22.976Z",
+        "updated_at": "2023-08-25T14:49:32.167Z",
+        "task_id": "f90f6f3f-b22f-439d-ab5a-068b9a4f1091",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e27ef03c-e875-4405-841d-a3e74cfca0de",
+        "url": "https://example.com/screenshot4.png",
+        "upload_date": "2023-08-25T01:42:20.283Z",
+        "status": "Under Review",
+        "created_at": "2023-08-25T09:16:49.854Z",
+        "updated_at": "2023-08-25T10:13:57.617Z",
+        "task_id": "64d924ea-a101-403d-9c8c-3148d1deaa6b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6c7b3c8a-ed80-43f6-b4d6-dda33fdb69db",
+        "url": "https://example.com/screenshot5.png",
+        "upload_date": "2023-08-25T02:57:08.247Z",
+        "status": "Published",
+        "created_at": "2023-08-25T16:56:54.933Z",
+        "updated_at": "2023-08-25T11:29:29.874Z",
+        "task_id": "c070baae-8c5f-42bc-9102-22645445ee7d",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "credit": [
+      {
+        "id": "27f80f8c-a0ff-44a7-8b76-2e607f552586",
+        "amount": 55352,
+        "credit_date": "2023-08-25T10:37:19.611Z",
+        "status": "Active",
+        "created_at": "2023-08-25T06:56:10.638Z",
+        "updated_at": "2023-08-25T03:20:35.167Z",
+        "task_id": "c070baae-8c5f-42bc-9102-22645445ee7d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e3e0b229-64d3-4a27-bf44-4e69375e9201",
+        "amount": 82340,
+        "credit_date": "2023-08-25T11:55:44.829Z",
+        "status": "Expired",
+        "created_at": "2023-08-25T16:05:30.241Z",
+        "updated_at": "2023-08-25T12:07:39.937Z",
+        "task_id": "64d924ea-a101-403d-9c8c-3148d1deaa6b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "34660854-d394-4b4b-a55f-80d31c4d2ab2",
+        "amount": 71462,
+        "credit_date": "2023-08-25T09:31:27.467Z",
+        "status": "Suspended",
+        "created_at": "2023-08-25T12:48:10.077Z",
+        "updated_at": "2023-08-25T13:51:30.152Z",
+        "task_id": "f90f6f3f-b22f-439d-ab5a-068b9a4f1091",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5d807ba6-b973-4fab-9e2e-1f2956797787",
+        "amount": 13884,
+        "credit_date": "2023-08-25T03:50:19.847Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-24T21:19:19.995Z",
+        "updated_at": "2023-08-25T14:18:20.504Z",
+        "task_id": "c070baae-8c5f-42bc-9102-22645445ee7d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "12898f1f-aec6-4e41-a0d2-758098a47abd",
+        "amount": 15541,
+        "credit_date": "2023-08-25T11:23:03.714Z",
+        "status": "Unused",
+        "created_at": "2023-08-25T06:18:14.677Z",
+        "updated_at": "2023-08-25T11:41:06.767Z",
+        "task_id": "c070baae-8c5f-42bc-9102-22645445ee7d",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "5639caba-ce1c-46ec-a8dd-327129c30bd5",
+        "email": "Efren20@yahoo.com",
+        "firstName": "Lillian",
+        "lastName": "Lindgren",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/263.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "df31cf51-7e0d-4087-8a51-d9b8ef6f59e2",
+        "email": "Pasquale_Yost75@hotmail.com",
+        "firstName": "Turner",
+        "lastName": "Bradtke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/515.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bcb822be-5883-472c-aee5-a5583c099194",
+        "email": "Julianne56@gmail.com",
+        "firstName": "Kitty",
+        "lastName": "Bernier",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35843200",
+        "tenantId": null
+      },
+      {
+        "reference": "0e244fd1-8aa6-4eb0-9513-4aa1576ae166",
+        "email": "Emelia_Wuckert@gmail.com",
+        "firstName": "Cali",
+        "lastName": "Heaney",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/562.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d224a7fb-b6c5-4530-9311-df8209ee55ae",
+        "email": "Lance99@hotmail.com",
+        "firstName": "Daphne",
+        "lastName": "Wisoky",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/788.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "offer": [
+      {
+        "id": "58a12b03-750d-458b-9673-999d4a088226",
+        "title": "Senior Software Engineer",
+        "description": "Seeking an experienced software engineer to join our team",
+        "status": "Open",
+        "start_date": "2023-08-25T03:17:46.302Z",
+        "end_date": "2023-08-25T09:46:48.022Z",
+        "created_at": "2023-08-24T20:55:11.972Z",
+        "updated_at": "2023-08-25T10:54:31.994Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c3a04389-b43b-4b8d-8aa8-93d168a0e09a",
+        "title": "Marketing Manager",
+        "description": "Looking for a creative marketing professional to lead our campaigns",
+        "status": "Closed",
+        "start_date": "2023-08-24T23:40:56.327Z",
+        "end_date": "2023-08-25T09:02:15.112Z",
+        "created_at": "2023-08-25T02:35:29.518Z",
+        "updated_at": "2023-08-25T02:30:15.216Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "aea0c1ea-9228-42ce-8912-6af51a83b8d3",
+        "title": "Sales Representative",
+        "description": "Join our sales team and help drive business growth",
+        "status": "Pending",
+        "start_date": "2023-08-25T13:39:18.068Z",
+        "end_date": "2023-08-25T10:00:32.882Z",
+        "created_at": "2023-08-25T06:10:05.843Z",
+        "updated_at": "2023-08-25T13:01:43.668Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f2669b56-1687-4ae1-82ef-c35e54d93de3",
+        "title": "Graphic Designer",
+        "description": "Design visually appealing graphics for various projects",
+        "status": "Accepted",
+        "start_date": "2023-08-25T12:18:03.809Z",
+        "end_date": "2023-08-25T18:44:09.166Z",
+        "created_at": "2023-08-25T12:03:38.049Z",
+        "updated_at": "2023-08-25T05:40:39.370Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8e3ed649-c0b9-4e83-ad97-06c2f968188d",
+        "title": "Project Coordinator",
+        "description": "Coordinate and manage project timelines and deliverables",
+        "status": "Rejected",
+        "start_date": "2023-08-25T08:26:55.860Z",
+        "end_date": "2023-08-25T13:11:38.889Z",
+        "created_at": "2023-08-24T21:57:39.469Z",
+        "updated_at": "2023-08-25T13:41:59.173Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "task": [
+      {
+        "id": "d7fb0baf-40fa-42c8-85ae-a8c6c13135f8",
+        "title": "Website Redesign",
+        "description": "Revamp the company website to improve user experience",
+        "status": "In Progress",
+        "start_date": "2023-08-25T14:06:43.378Z",
+        "end_date": "2023-08-25T17:17:39.338Z",
+        "created_at": "2023-08-25T00:14:22.265Z",
+        "updated_at": "2023-08-24T21:27:20.571Z",
+        "offer_id": "f2669b56-1687-4ae1-82ef-c35e54d93de3"
+      },
+      {
+        "id": "280c0f09-1c3f-4d07-9ffe-9f0fbc2bef3d",
+        "title": "Content Creation",
+        "description": "Create engaging content for marketing campaigns",
+        "status": "Completed",
+        "start_date": "2023-08-25T03:29:38.082Z",
+        "end_date": "2023-08-25T07:39:46.036Z",
+        "created_at": "2023-08-25T08:31:49.004Z",
+        "updated_at": "2023-08-24T22:42:38.529Z",
+        "offer_id": "8e3ed649-c0b9-4e83-ad97-06c2f968188d"
+      },
+      {
+        "id": "e618ca09-dba2-4c88-9e7f-df6945e1a105",
+        "title": "Data Analysis",
+        "description": "Analyze data to identify trends and insights",
+        "status": "Pending",
+        "start_date": "2023-08-24T21:29:40.676Z",
+        "end_date": "2023-08-24T22:16:39.087Z",
+        "created_at": "2023-08-24T23:25:19.072Z",
+        "updated_at": "2023-08-25T01:32:23.592Z",
+        "offer_id": "c3a04389-b43b-4b8d-8aa8-93d168a0e09a"
+      },
+      {
+        "id": "1ab990ef-0864-435a-8633-1a63805bc84f",
+        "title": "Social Media Management",
+        "description": "Manage social media accounts and engage with followers",
+        "status": "On Hold",
+        "start_date": "2023-08-25T03:21:40.104Z",
+        "end_date": "2023-08-25T09:03:50.068Z",
+        "created_at": "2023-08-25T07:01:43.611Z",
+        "updated_at": "2023-08-25T12:19:31.139Z",
+        "offer_id": "c3a04389-b43b-4b8d-8aa8-93d168a0e09a"
+      },
+      {
+        "id": "bd22f342-f3a6-4330-938a-d70e5fed78eb",
+        "title": "Product Testing",
+        "description": "Test new products for quality and functionality",
+        "status": "Cancelled",
+        "start_date": "2023-08-25T10:19:07.613Z",
+        "end_date": "2023-08-25T13:35:19.244Z",
+        "created_at": "2023-08-25T06:13:08.871Z",
+        "updated_at": "2023-08-25T06:41:02.334Z",
+        "offer_id": "8e3ed649-c0b9-4e83-ad97-06c2f968188d"
+      }
+    ],
+    "screenshot": [
+      {
+        "id": "d45084c7-6450-4893-8b97-d17b3b35a0ea",
+        "url": "https://example.com/screenshot1.png",
+        "upload_date": "2023-08-25T05:21:09.415Z",
+        "status": "Approved",
+        "created_at": "2023-08-24T21:06:33.760Z",
+        "updated_at": "2023-08-25T03:36:42.248Z",
+        "task_id": "1ab990ef-0864-435a-8633-1a63805bc84f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e689eaaa-4c48-4cb9-b7dc-34d6a6544dbb",
+        "url": "https://example.com/screenshot2.png",
+        "upload_date": "2023-08-25T06:27:22.882Z",
+        "status": "Rejected",
+        "created_at": "2023-08-25T03:35:26.747Z",
+        "updated_at": "2023-08-25T10:39:11.538Z",
+        "task_id": "1ab990ef-0864-435a-8633-1a63805bc84f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "100c17b2-9d57-4a19-8b13-b88527ffc141",
+        "url": "https://example.com/screenshot3.png",
+        "upload_date": "2023-08-25T01:03:21.351Z",
+        "status": "Pending",
+        "created_at": "2023-08-24T23:17:28.068Z",
+        "updated_at": "2023-08-25T13:47:11.353Z",
+        "task_id": "280c0f09-1c3f-4d07-9ffe-9f0fbc2bef3d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1cbd0ff2-a644-4ee5-9d87-eda9b58b32a4",
+        "url": "https://example.com/screenshot4.png",
+        "upload_date": "2023-08-25T07:19:06.155Z",
+        "status": "Reviewed",
+        "created_at": "2023-08-25T15:27:38.381Z",
+        "updated_at": "2023-08-25T18:08:51.485Z",
+        "task_id": "bd22f342-f3a6-4330-938a-d70e5fed78eb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "063b8cbd-da6c-4d05-a634-6b46188cd068",
+        "url": "https://example.com/screenshot5.png",
+        "upload_date": "2023-08-25T12:48:45.152Z",
+        "status": "Processed",
+        "created_at": "2023-08-25T00:47:05.932Z",
+        "updated_at": "2023-08-25T04:13:32.824Z",
+        "task_id": "e618ca09-dba2-4c88-9e7f-df6945e1a105",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "credit": [
+      {
+        "id": "653a0471-fac0-49b7-9649-e8eb7f8b2d5e",
+        "amount": 29576,
+        "credit_date": "2023-08-25T05:10:50.926Z",
+        "status": "Active",
+        "created_at": "2023-08-24T22:58:59.119Z",
+        "updated_at": "2023-08-24T22:36:01.793Z",
+        "task_id": "d7fb0baf-40fa-42c8-85ae-a8c6c13135f8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "134612dc-eb5a-420b-93ff-99b3d61457ce",
+        "amount": 50736,
+        "credit_date": "2023-08-25T13:23:02.383Z",
+        "status": "Inactive",
+        "created_at": "2023-08-24T23:02:08.512Z",
+        "updated_at": "2023-08-25T10:13:15.062Z",
+        "task_id": "280c0f09-1c3f-4d07-9ffe-9f0fbc2bef3d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9583d86c-aa61-4c4a-8b5b-46edbd5c3615",
+        "amount": 68897,
+        "credit_date": "2023-08-24T19:45:13.692Z",
+        "status": "Suspended",
+        "created_at": "2023-08-25T15:40:46.954Z",
+        "updated_at": "2023-08-25T04:34:45.595Z",
+        "task_id": "280c0f09-1c3f-4d07-9ffe-9f0fbc2bef3d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "da67985c-ae43-4d48-9f1a-970f1f4815d4",
+        "amount": 25315,
+        "credit_date": "2023-08-25T11:20:00.763Z",
+        "status": "Expired",
+        "created_at": "2023-08-25T06:41:35.323Z",
+        "updated_at": "2023-08-24T19:45:53.181Z",
+        "task_id": "bd22f342-f3a6-4330-938a-d70e5fed78eb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5110330a-2c83-4aaa-9b71-ef1936fe3e2d",
+        "amount": 5350,
+        "credit_date": "2023-08-25T04:20:07.686Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-25T17:10:37.702Z",
+        "updated_at": "2023-08-24T20:01:49.202Z",
+        "task_id": "e618ca09-dba2-4c88-9e7f-df6945e1a105",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "4323afdd-214c-487f-b602-704bb566499c",
+        "email": "Demond_Vandervort@yahoo.com",
+        "firstName": "Gregg",
+        "lastName": "Barton",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/197.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f4451ea5-4026-4a7f-be77-bb00ffae5518",
+        "email": "Hank.Streich4@gmail.com",
+        "firstName": "Ethyl",
+        "lastName": "Jast",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31583502",
+        "tenantId": null
+      },
+      {
+        "reference": "d6f64123-c82a-4bf8-83a9-769c49da3290",
+        "email": "Darrin6@hotmail.com",
+        "firstName": "Mauricio",
+        "lastName": "Ritchie",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85703141",
+        "tenantId": null
+      },
+      {
+        "reference": "1443c6cb-91ed-41d7-8585-968d0ac784ad",
+        "email": "Fatima24@gmail.com",
+        "firstName": "Kristoffer",
+        "lastName": "Kertzmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/217.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2ec7fdb7-bd70-45fa-b6dd-bedad2bd8dd9",
+        "email": "Stevie_Grimes59@yahoo.com",
+        "firstName": "Santino",
+        "lastName": "Hills",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1248.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "offer": [
+      {
+        "id": "eea0cb79-8ffd-434b-a7a5-a88465086cd6",
+        "title": "Job Opportunity",
+        "description": "Apply now and join our team!",
+        "status": "Active",
+        "start_date": "2023-08-25T10:58:59.665Z",
+        "end_date": "2023-08-24T22:48:28.719Z",
+        "created_at": "2023-08-25T15:17:07.099Z",
+        "updated_at": "2023-08-25T08:18:04.109Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b7f44f84-4e8d-477e-9fff-1130990a3442",
+        "title": "Special Discount",
+        "description": "Get 50% off on selected items",
+        "status": "Expired",
+        "start_date": "2023-08-25T15:15:03.976Z",
+        "end_date": "2023-08-25T10:06:48.842Z",
+        "created_at": "2023-08-25T03:51:13.080Z",
+        "updated_at": "2023-08-24T23:53:46.832Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fb42b0c8-4dc0-485c-b152-c4e704b4b4bc",
+        "title": "Exclusive Deal",
+        "description": "Don't miss out on this amazing offer",
+        "status": "Upcoming",
+        "start_date": "2023-08-25T01:57:34.621Z",
+        "end_date": "2023-08-25T01:00:46.711Z",
+        "created_at": "2023-08-25T10:46:33.859Z",
+        "updated_at": "2023-08-25T05:32:56.410Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cb6b7223-924f-4f23-8bf2-36e6ba7a4bc3",
+        "title": "Limited Time Offer",
+        "description": "Hurry, offer ends soon!",
+        "status": "Ongoing",
+        "start_date": "2023-08-25T03:11:01.639Z",
+        "end_date": "2023-08-24T23:15:23.091Z",
+        "created_at": "2023-08-25T01:06:38.361Z",
+        "updated_at": "2023-08-25T15:09:32.415Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2393b0dc-0cbf-415f-863c-9bff263985a2",
+        "title": "Promotional Package",
+        "description": "Upgrade your experience with our exclusive package",
+        "status": "Closed",
+        "start_date": "2023-08-25T10:04:38.735Z",
+        "end_date": "2023-08-25T00:02:57.787Z",
+        "created_at": "2023-08-25T04:43:07.703Z",
+        "updated_at": "2023-08-25T18:55:29.538Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "task": [
+      {
+        "id": "fe3b23a5-7acd-40c1-986b-5c96b11b1232",
+        "title": "Complete Project Report",
+        "description": "Compile all data and create a comprehensive report",
+        "status": "Pending",
+        "start_date": "2023-08-25T06:12:34.788Z",
+        "end_date": "2023-08-25T15:55:48.442Z",
+        "created_at": "2023-08-25T01:55:41.010Z",
+        "updated_at": "2023-08-25T09:42:53.812Z",
+        "offer_id": "eea0cb79-8ffd-434b-a7a5-a88465086cd6"
+      },
+      {
+        "id": "11e95718-e84b-4989-b221-dcc11b1eecbf",
+        "title": "Prepare Presentation",
+        "description": "Design a visually appealing presentation with key information",
+        "status": "In Progress",
+        "start_date": "2023-08-25T05:51:34.747Z",
+        "end_date": "2023-08-25T18:05:16.003Z",
+        "created_at": "2023-08-24T23:38:45.380Z",
+        "updated_at": "2023-08-25T11:22:25.225Z",
+        "offer_id": "cb6b7223-924f-4f23-8bf2-36e6ba7a4bc3"
+      },
+      {
+        "id": "8b58736a-b04b-4fa1-af08-9e000cd7dcb0",
+        "title": "Review Marketing Strategy",
+        "description": "Analyze current marketing strategy and suggest improvements",
+        "status": "Completed",
+        "start_date": "2023-08-25T05:45:38.367Z",
+        "end_date": "2023-08-25T11:01:15.649Z",
+        "created_at": "2023-08-25T00:51:40.024Z",
+        "updated_at": "2023-08-25T13:46:52.948Z",
+        "offer_id": "b7f44f84-4e8d-477e-9fff-1130990a3442"
+      },
+      {
+        "id": "2e4356b7-3409-4dd2-a4c0-a8b5bc7ff276",
+        "title": "Develop New Feature",
+        "description": "Implement a new feature based on client requirements",
+        "status": "Delayed",
+        "start_date": "2023-08-25T16:59:04.604Z",
+        "end_date": "2023-08-25T17:54:22.764Z",
+        "created_at": "2023-08-24T19:23:49.087Z",
+        "updated_at": "2023-08-25T12:58:22.102Z",
+        "offer_id": "2393b0dc-0cbf-415f-863c-9bff263985a2"
+      },
+      {
+        "id": "6fc100f9-5153-4a8e-829f-d87d9a252383",
+        "title": "Conduct User Testing",
+        "description": "Gather user feedback and conduct testing for product enhancements",
+        "status": "Cancelled",
+        "start_date": "2023-08-25T05:42:39.243Z",
+        "end_date": "2023-08-25T11:33:34.895Z",
+        "created_at": "2023-08-25T15:25:51.771Z",
+        "updated_at": "2023-08-25T02:56:16.548Z",
+        "offer_id": "cb6b7223-924f-4f23-8bf2-36e6ba7a4bc3"
+      }
+    ],
+    "screenshot": [
+      {
+        "id": "61e8b33b-c39e-455c-9188-58235c86c92e",
+        "url": "https://example.com/screenshot1.png",
+        "upload_date": "2023-08-25T06:28:43.143Z",
+        "status": "Success",
+        "created_at": "2023-08-25T01:12:27.573Z",
+        "updated_at": "2023-08-24T21:17:47.629Z",
+        "task_id": "6fc100f9-5153-4a8e-829f-d87d9a252383",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9be6303f-56d4-4385-9856-2c7afae66b57",
+        "url": "https://example.com/screenshot2.png",
+        "upload_date": "2023-08-25T02:54:52.185Z",
+        "status": "Failure",
+        "created_at": "2023-08-25T11:19:15.829Z",
+        "updated_at": "2023-08-24T22:36:23.554Z",
+        "task_id": "fe3b23a5-7acd-40c1-986b-5c96b11b1232",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d5512771-9b55-4f33-802d-b778abee8831",
+        "url": "https://example.com/screenshot3.png",
+        "upload_date": "2023-08-25T18:41:06.789Z",
+        "status": "Processing",
+        "created_at": "2023-08-24T21:51:36.453Z",
+        "updated_at": "2023-08-25T08:43:09.559Z",
+        "task_id": "11e95718-e84b-4989-b221-dcc11b1eecbf",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bf2f2a49-1b31-485b-939e-e0d923995d4b",
+        "url": "https://example.com/screenshot4.png",
+        "upload_date": "2023-08-25T04:48:22.094Z",
+        "status": "Pending",
+        "created_at": "2023-08-24T21:24:34.021Z",
+        "updated_at": "2023-08-25T02:31:53.819Z",
+        "task_id": "6fc100f9-5153-4a8e-829f-d87d9a252383",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c8929132-7d3d-4cee-9cc5-a717d8e9cad1",
+        "url": "https://example.com/screenshot5.png",
+        "upload_date": "2023-08-24T20:18:30.449Z",
+        "status": "Error",
+        "created_at": "2023-08-25T12:54:44.393Z",
+        "updated_at": "2023-08-24T21:15:26.274Z",
+        "task_id": "8b58736a-b04b-4fa1-af08-9e000cd7dcb0",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "credit": [
+      {
+        "id": "3312863c-e877-4fb7-80b4-2f080d6e06dd",
+        "amount": 84889,
+        "credit_date": "2023-08-25T14:47:35.333Z",
+        "status": "Active",
+        "created_at": "2023-08-25T03:18:13.825Z",
+        "updated_at": "2023-08-25T18:47:21.501Z",
+        "task_id": "2e4356b7-3409-4dd2-a4c0-a8b5bc7ff276",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7bf1ca14-1db7-44c8-ae07-9e378ecb7898",
+        "amount": 9295,
+        "credit_date": "2023-08-25T06:15:36.212Z",
+        "status": "Inactive",
+        "created_at": "2023-08-25T04:49:18.821Z",
+        "updated_at": "2023-08-25T18:42:31.732Z",
+        "task_id": "8b58736a-b04b-4fa1-af08-9e000cd7dcb0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "920a32de-eb2f-42ab-9b70-7b4348fafb7f",
+        "amount": 3659,
+        "credit_date": "2023-08-25T18:53:50.291Z",
+        "status": "Blocked",
+        "created_at": "2023-08-25T00:06:16.069Z",
+        "updated_at": "2023-08-24T21:25:54.258Z",
+        "task_id": "2e4356b7-3409-4dd2-a4c0-a8b5bc7ff276",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fec1561c-eb19-4426-abee-45935913440e",
+        "amount": 49235,
+        "credit_date": "2023-08-24T22:51:49.238Z",
+        "status": "Expired",
+        "created_at": "2023-08-25T14:46:20.736Z",
+        "updated_at": "2023-08-24T22:07:28.583Z",
+        "task_id": "2e4356b7-3409-4dd2-a4c0-a8b5bc7ff276",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "28fbe4c8-0a47-48ea-a558-52fce0769000",
+        "amount": 54901,
+        "credit_date": "2023-08-25T17:49:35.256Z",
+        "status": "Suspended",
+        "created_at": "2023-08-25T02:49:16.963Z",
+        "updated_at": "2023-08-25T16:54:24.226Z",
+        "task_id": "8b58736a-b04b-4fa1-af08-9e000cd7dcb0",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "682f35b7-1277-41a5-8b8d-fad4bd187a12",
+        "email": "Genoveva_Bode-Bergnaum@hotmail.com",
+        "firstName": "Jany",
+        "lastName": "Bosco",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/966.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f15775d9-33c0-4074-a0e9-00e45360568b",
+        "email": "Telly.White36@yahoo.com",
+        "firstName": "Loyce",
+        "lastName": "Dibbert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/145.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e6d6c103-64c6-4621-9c10-ae03f7251a76",
+        "email": "Anabelle30@yahoo.com",
+        "firstName": "Briana",
+        "lastName": "Rath",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/520.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8e331369-4d09-4419-9bbb-100bfa35ae50",
+        "email": "Jannie.Pagac@gmail.com",
+        "firstName": "Madonna",
+        "lastName": "Heathcote",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73524883",
+        "tenantId": null
+      },
+      {
+        "reference": "af49758b-ded1-45e8-85e8-b313e63eb09e",
+        "email": "Keira.White36@yahoo.com",
+        "firstName": "Merritt",
+        "lastName": "Price",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/730.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "offer": [
+      {
+        "id": "bbb4fb66-1d24-4a2c-a649-c068605faee1",
+        "title": "Software Engineer",
+        "description": "Join our team and work on cutting-edge projects",
+        "status": "Open",
+        "start_date": "2023-08-25T12:38:05.664Z",
+        "end_date": "2023-08-25T16:13:09.765Z",
+        "created_at": "2023-08-25T14:29:11.135Z",
+        "updated_at": "2023-08-24T20:30:22.044Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ab87abaa-56e2-4103-84cc-c25b967a763f",
+        "title": "Marketing Specialist",
+        "description": "Help us promote our products and reach new customers",
+        "status": "Closed",
+        "start_date": "2023-08-25T18:47:03.813Z",
+        "end_date": "2023-08-25T03:36:16.493Z",
+        "created_at": "2023-08-24T21:39:02.579Z",
+        "updated_at": "2023-08-25T18:57:42.311Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ba79b6b1-3219-488e-92ad-1eac02408004",
+        "title": "Sales Representative",
+        "description": "Drive sales and build relationships with clients",
+        "status": "Pending",
+        "start_date": "2023-08-25T02:26:10.446Z",
+        "end_date": "2023-08-25T10:13:43.875Z",
+        "created_at": "2023-08-25T07:50:50.003Z",
+        "updated_at": "2023-08-25T16:10:32.478Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3bd478ef-0885-45f4-9abf-52f7b6c20ef9",
+        "title": "Graphic Designer",
+        "description": "Create visually stunning designs for various platforms",
+        "status": "Expired",
+        "start_date": "2023-08-25T11:12:23.471Z",
+        "end_date": "2023-08-25T04:33:33.648Z",
+        "created_at": "2023-08-25T01:17:14.118Z",
+        "updated_at": "2023-08-25T08:13:40.700Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5b93b258-4991-4657-87a9-cf262c8286f3",
+        "title": "Customer Support Associate",
+        "description": "Provide excellent customer service and assist with inquiries",
+        "status": "Accepted",
+        "start_date": "2023-08-24T21:18:08.800Z",
+        "end_date": "2023-08-25T13:11:51.644Z",
+        "created_at": "2023-08-25T19:01:39.209Z",
+        "updated_at": "2023-08-24T23:36:54.464Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "task": [
+      {
+        "id": "29bc5591-ab49-47af-af85-b26213c8744f",
+        "title": "Develop new feature",
+        "description": "Implement a feature that enhances user experience",
+        "status": "In progress",
+        "start_date": "2023-08-24T19:41:44.511Z",
+        "end_date": "2023-08-25T09:07:57.719Z",
+        "created_at": "2023-08-25T14:13:39.706Z",
+        "updated_at": "2023-08-25T01:23:28.405Z",
+        "offer_id": "3bd478ef-0885-45f4-9abf-52f7b6c20ef9"
+      },
+      {
+        "id": "d4422818-f938-41a7-967a-152f6524be79",
+        "title": "Create marketing campaign",
+        "description": "Plan and execute a campaign to increase brand awareness",
+        "status": "Completed",
+        "start_date": "2023-08-25T09:55:57.794Z",
+        "end_date": "2023-08-25T10:36:40.966Z",
+        "created_at": "2023-08-25T06:28:01.238Z",
+        "updated_at": "2023-08-25T07:23:12.867Z",
+        "offer_id": "bbb4fb66-1d24-4a2c-a649-c068605faee1"
+      },
+      {
+        "id": "8b91ba3f-6ee6-4c0d-941f-dd7c89d33318",
+        "title": "Follow up with leads",
+        "description": "Contact potential clients and schedule meetings",
+        "status": "Pending",
+        "start_date": "2023-08-25T09:32:06.548Z",
+        "end_date": "2023-08-24T22:58:11.668Z",
+        "created_at": "2023-08-25T03:09:54.748Z",
+        "updated_at": "2023-08-25T08:19:01.167Z",
+        "offer_id": "ab87abaa-56e2-4103-84cc-c25b967a763f"
+      },
+      {
+        "id": "c6963938-e1f1-4a52-92f9-580af72bf863",
+        "title": "Design website layout",
+        "description": "Design a modern and user-friendly website",
+        "status": "On hold",
+        "start_date": "2023-08-25T08:46:11.798Z",
+        "end_date": "2023-08-25T13:08:04.807Z",
+        "created_at": "2023-08-25T18:13:38.109Z",
+        "updated_at": "2023-08-24T22:32:11.553Z",
+        "offer_id": "ab87abaa-56e2-4103-84cc-c25b967a763f"
+      },
+      {
+        "id": "8c6078d2-916f-49c0-bbc3-b2ab908a906b",
+        "title": "Resolve customer issue",
+        "description": "Investigate and resolve a customer's technical problem",
+        "status": "Cancelled",
+        "start_date": "2023-08-25T08:54:44.091Z",
+        "end_date": "2023-08-25T18:30:29.547Z",
+        "created_at": "2023-08-25T00:38:23.977Z",
+        "updated_at": "2023-08-24T22:06:23.830Z",
+        "offer_id": "bbb4fb66-1d24-4a2c-a649-c068605faee1"
+      }
+    ],
+    "screenshot": [
+      {
+        "id": "d6401589-8268-4870-b665-fe7bc135f860",
+        "url": "https://example.com/screenshot1.png",
+        "upload_date": "2023-08-25T07:09:16.051Z",
+        "status": "Active",
+        "created_at": "2023-08-24T23:12:28.527Z",
+        "updated_at": "2023-08-25T04:47:09.464Z",
+        "task_id": "8c6078d2-916f-49c0-bbc3-b2ab908a906b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "59858305-b49c-4e31-a4fe-f741490f0bcb",
+        "url": "https://example.com/screenshot2.png",
+        "upload_date": "2023-08-25T00:49:46.405Z",
+        "status": "Inactive",
+        "created_at": "2023-08-24T21:35:11.063Z",
+        "updated_at": "2023-08-24T23:43:26.585Z",
+        "task_id": "29bc5591-ab49-47af-af85-b26213c8744f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f7736f0-de95-4236-932d-f1caedaef78f",
+        "url": "https://example.com/screenshot3.png",
+        "upload_date": "2023-08-24T21:46:27.296Z",
+        "status": "Pending",
+        "created_at": "2023-08-25T04:07:04.259Z",
+        "updated_at": "2023-08-25T01:00:56.060Z",
+        "task_id": "d4422818-f938-41a7-967a-152f6524be79",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e1684ef8-3db8-4348-9edf-273f19808105",
+        "url": "https://example.com/screenshot4.png",
+        "upload_date": "2023-08-25T13:23:39.041Z",
+        "status": "Approved",
+        "created_at": "2023-08-25T10:07:50.173Z",
+        "updated_at": "2023-08-25T01:21:25.278Z",
+        "task_id": "29bc5591-ab49-47af-af85-b26213c8744f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2265e4d0-a8e9-4359-8cc0-6bf8e11df9ca",
+        "url": "https://example.com/screenshot5.png",
+        "upload_date": "2023-08-25T05:50:50.588Z",
+        "status": "Rejected",
+        "created_at": "2023-08-25T13:02:04.827Z",
+        "updated_at": "2023-08-25T15:41:17.662Z",
+        "task_id": "d4422818-f938-41a7-967a-152f6524be79",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "credit": [
+      {
+        "id": "af0a0a86-4168-44c5-acf1-05c95159a4ff",
+        "amount": 13118,
+        "credit_date": "2023-08-25T05:08:16.646Z",
+        "status": "Active",
+        "created_at": "2023-08-25T06:24:06.982Z",
+        "updated_at": "2023-08-25T14:26:53.667Z",
+        "task_id": "c6963938-e1f1-4a52-92f9-580af72bf863",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "812e6a8b-9a35-4b13-adcb-8218c0d3c096",
+        "amount": 20547,
+        "credit_date": "2023-08-24T22:40:12.052Z",
+        "status": "Inactive",
+        "created_at": "2023-08-25T15:19:40.841Z",
+        "updated_at": "2023-08-24T20:29:50.432Z",
+        "task_id": "c6963938-e1f1-4a52-92f9-580af72bf863",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1db3f39f-440b-4491-bfb1-759c808d8f54",
+        "amount": 69373,
+        "credit_date": "2023-08-25T06:46:24.174Z",
+        "status": "Pending",
+        "created_at": "2023-08-25T17:52:09.822Z",
+        "updated_at": "2023-08-25T00:10:25.419Z",
+        "task_id": "8c6078d2-916f-49c0-bbc3-b2ab908a906b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d60a012d-50ee-44e0-8758-0015c0b90d7e",
+        "amount": 29019,
+        "credit_date": "2023-08-24T23:34:30.323Z",
+        "status": "Approved",
+        "created_at": "2023-08-25T06:43:08.136Z",
+        "updated_at": "2023-08-25T09:09:58.004Z",
+        "task_id": "d4422818-f938-41a7-967a-152f6524be79",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "61f97b47-94c3-4c91-bfba-2c0f2fe66a0a",
+        "amount": 16661,
+        "credit_date": "2023-08-25T04:33:42.980Z",
+        "status": "Rejected",
+        "created_at": "2023-08-25T06:06:46.014Z",
+        "updated_at": "2023-08-25T03:06:26.910Z",
+        "task_id": "29bc5591-ab49-47af-af85-b26213c8744f",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "51935748-cafc-420f-b9c8-3fc57960d81f",
+        "email": "Bernice_Dicki59@hotmail.com",
+        "firstName": "Roxane",
+        "lastName": "Schroeder",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42670943",
+        "tenantId": null
+      },
+      {
+        "reference": "51ca95c1-74ca-40fd-8711-05c5c07105c6",
+        "email": "Fermin_Weber69@yahoo.com",
+        "firstName": "Jack",
+        "lastName": "Luettgen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/985.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "81f03143-af34-4f3b-99bf-83422ba5a279",
+        "email": "Fae.Kuhlman86@gmail.com",
+        "firstName": "Aletha",
+        "lastName": "Breitenberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99540203",
+        "tenantId": null
+      },
+      {
+        "reference": "c39f1fd0-b7b2-411a-8593-7b48ef2e4edd",
+        "email": "Isai_Ruecker@yahoo.com",
+        "firstName": "Kurt",
+        "lastName": "Terry",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96664741",
+        "tenantId": null
+      },
+      {
+        "reference": "86fb226a-febd-45f5-bd71-381fde73fac4",
+        "email": "Breanna.Bruen16@yahoo.com",
+        "firstName": "Roel",
+        "lastName": "Marks",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1005192",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "offer": [
+      {
+        "id": "307efafc-d824-420d-a78c-f74ef95bd1a2",
+        "title": "Job Opportunity",
+        "description": "Apply now and join our team!",
+        "status": "Active",
+        "start_date": "2023-08-25T15:03:49.590Z",
+        "end_date": "2023-08-25T05:01:36.161Z",
+        "created_at": "2023-08-25T15:33:07.374Z",
+        "updated_at": "2023-08-24T23:30:14.959Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f1fc2387-5eaf-42a4-808f-4ad678a88084",
+        "title": "Special Discount",
+        "description": "Get 50% off on selected items",
+        "status": "Expired",
+        "start_date": "2023-08-25T15:16:57.531Z",
+        "end_date": "2023-08-25T19:08:31.958Z",
+        "created_at": "2023-08-25T00:41:00.847Z",
+        "updated_at": "2023-08-25T00:51:42.176Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ccb10fdc-a764-49a9-88db-f56a7785eb8d",
+        "title": "Limited Time Offer",
+        "description": "Don't miss out on this amazing offer",
+        "status": "Ongoing",
+        "start_date": "2023-08-25T07:23:21.062Z",
+        "end_date": "2023-08-25T00:41:34.357Z",
+        "created_at": "2023-08-24T20:20:15.744Z",
+        "updated_at": "2023-08-25T01:01:31.833Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6a76197e-91fb-4d3f-8679-38f46dd470dd",
+        "title": "Exclusive Deal",
+        "description": "Be the first to experience our latest product",
+        "status": "Upcoming",
+        "start_date": "2023-08-25T01:26:06.287Z",
+        "end_date": "2023-08-24T20:51:03.603Z",
+        "created_at": "2023-08-25T10:35:08.244Z",
+        "updated_at": "2023-08-24T19:27:44.615Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "963afee8-ec82-414b-8d77-5b639864d027",
+        "title": "New Product Launch",
+        "description": "Limited stock available, grab it now!",
+        "status": "Closed",
+        "start_date": "2023-08-25T18:35:31.182Z",
+        "end_date": "2023-08-25T12:03:16.509Z",
+        "created_at": "2023-08-25T16:32:17.831Z",
+        "updated_at": "2023-08-25T18:52:07.593Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "task": [
+      {
+        "id": "0c1d54e3-9cd4-4f20-ba17-a4c88bb2f9a2",
+        "title": "Complete Project Report",
+        "description": "Finish writing the project report by Friday",
+        "status": "Pending",
+        "start_date": "2023-08-25T06:37:12.848Z",
+        "end_date": "2023-08-25T14:22:18.573Z",
+        "created_at": "2023-08-25T13:21:25.697Z",
+        "updated_at": "2023-08-25T00:52:36.359Z",
+        "offer_id": "f1fc2387-5eaf-42a4-808f-4ad678a88084"
+      },
+      {
+        "id": "6431df41-bcf5-4ace-8e55-ea0f99f4c756",
+        "title": "Prepare Presentation",
+        "description": "Create a compelling presentation for the client meeting",
+        "status": "In Progress",
+        "start_date": "2023-08-25T05:46:09.664Z",
+        "end_date": "2023-08-25T03:43:45.997Z",
+        "created_at": "2023-08-25T13:06:29.518Z",
+        "updated_at": "2023-08-24T23:24:50.022Z",
+        "offer_id": "f1fc2387-5eaf-42a4-808f-4ad678a88084"
+      },
+      {
+        "id": "8005f0b6-7896-4b62-9639-a0c3e1b6e2ab",
+        "title": "Review Code Changes",
+        "description": "Review and provide feedback on the latest code changes",
+        "status": "Completed",
+        "start_date": "2023-08-24T22:22:27.985Z",
+        "end_date": "2023-08-25T07:03:05.246Z",
+        "created_at": "2023-08-25T11:18:33.713Z",
+        "updated_at": "2023-08-24T23:13:48.791Z",
+        "offer_id": "f1fc2387-5eaf-42a4-808f-4ad678a88084"
+      },
+      {
+        "id": "f61726fb-854a-4b4c-88f4-cc4043c83688",
+        "title": "Attend Team Meeting",
+        "description": "Attend the weekly team meeting on Monday",
+        "status": "On Hold",
+        "start_date": "2023-08-25T15:12:57.994Z",
+        "end_date": "2023-08-25T15:30:19.863Z",
+        "created_at": "2023-08-25T02:03:06.258Z",
+        "updated_at": "2023-08-25T14:49:01.821Z",
+        "offer_id": "963afee8-ec82-414b-8d77-5b639864d027"
+      },
+      {
+        "id": "3bfc1f77-310f-420b-92c4-1160962ac49e",
+        "title": "Implement New Feature",
+        "description": "Implement the new feature according to the specifications",
+        "status": "Cancelled",
+        "start_date": "2023-08-25T09:50:23.789Z",
+        "end_date": "2023-08-25T17:28:20.911Z",
+        "created_at": "2023-08-24T20:20:28.561Z",
+        "updated_at": "2023-08-25T04:51:23.574Z",
+        "offer_id": "6a76197e-91fb-4d3f-8679-38f46dd470dd"
+      }
+    ],
+    "screenshot": [
+      {
+        "id": "667f1054-8f28-4060-8c11-1f33e6b3388e",
+        "url": "https://example.com/screenshot1.png",
+        "upload_date": "2023-08-25T16:55:36.460Z",
+        "status": "Success",
+        "created_at": "2023-08-25T10:31:54.275Z",
+        "updated_at": "2023-08-25T06:53:35.764Z",
+        "task_id": "6431df41-bcf5-4ace-8e55-ea0f99f4c756",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "761db340-93d2-492a-ac35-b9f251b81a92",
+        "url": "https://example.com/screenshot2.png",
+        "upload_date": "2023-08-25T10:52:15.945Z",
+        "status": "Failed",
+        "created_at": "2023-08-25T12:04:42.799Z",
+        "updated_at": "2023-08-25T05:16:55.348Z",
+        "task_id": "3bfc1f77-310f-420b-92c4-1160962ac49e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5ee42ef6-fb67-408e-a0ee-f6a18f16716b",
+        "url": "https://example.com/screenshot3.png",
+        "upload_date": "2023-08-25T03:46:31.891Z",
+        "status": "Processing",
+        "created_at": "2023-08-25T08:45:59.368Z",
+        "updated_at": "2023-08-25T01:21:08.782Z",
+        "task_id": "f61726fb-854a-4b4c-88f4-cc4043c83688",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2107b83c-ca2f-48d9-a56c-0bf6b4430077",
+        "url": "https://example.com/screenshot4.png",
+        "upload_date": "2023-08-25T00:54:50.467Z",
+        "status": "Pending",
+        "created_at": "2023-08-25T16:16:25.747Z",
+        "updated_at": "2023-08-25T17:53:41.433Z",
+        "task_id": "f61726fb-854a-4b4c-88f4-cc4043c83688",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d7ec4b34-7ba2-464b-a30d-a669dc38b764",
+        "url": "https://example.com/screenshot5.png",
+        "upload_date": "2023-08-25T09:28:10.605Z",
+        "status": "Completed",
+        "created_at": "2023-08-25T09:48:00.800Z",
+        "updated_at": "2023-08-25T13:52:59.537Z",
+        "task_id": "6431df41-bcf5-4ace-8e55-ea0f99f4c756",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "credit": [
+      {
+        "id": "c2accb8d-3f43-4850-994a-d42ddd062c6f",
+        "amount": 43768,
+        "credit_date": "2023-08-25T16:05:11.429Z",
+        "status": "Active",
+        "created_at": "2023-08-25T14:57:01.202Z",
+        "updated_at": "2023-08-25T04:39:53.911Z",
+        "task_id": "f61726fb-854a-4b4c-88f4-cc4043c83688",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b778629-9574-4598-b8fa-de3f34bb66f6",
+        "amount": 82439,
+        "credit_date": "2023-08-24T20:57:17.971Z",
+        "status": "Inactive",
+        "created_at": "2023-08-24T20:47:44.732Z",
+        "updated_at": "2023-08-25T02:37:17.591Z",
+        "task_id": "0c1d54e3-9cd4-4f20-ba17-a4c88bb2f9a2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3987bc30-aee8-4da1-936f-d8e6aa284fb1",
+        "amount": 58018,
+        "credit_date": "2023-08-25T18:58:40.022Z",
+        "status": "Expired",
+        "created_at": "2023-08-25T00:21:05.651Z",
+        "updated_at": "2023-08-25T09:33:32.971Z",
+        "task_id": "6431df41-bcf5-4ace-8e55-ea0f99f4c756",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "730d5f5d-548d-48bf-bd5f-b9d6843ae4a7",
+        "amount": 55616,
+        "credit_date": "2023-08-25T06:16:58.528Z",
+        "status": "Suspended",
+        "created_at": "2023-08-25T18:26:37.886Z",
+        "updated_at": "2023-08-25T01:33:58.662Z",
+        "task_id": "8005f0b6-7896-4b62-9639-a0c3e1b6e2ab",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cc511d9c-9633-4ceb-9d81-3e18c42a63ed",
+        "amount": 64333,
+        "credit_date": "2023-08-25T09:14:30.549Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-25T03:20:28.407Z",
+        "updated_at": "2023-08-25T12:01:16.154Z",
+        "task_id": "6431df41-bcf5-4ace-8e55-ea0f99f4c756",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "fd96c258-5596-4187-b2d3-d1006581fe27",
+        "email": "Abigail.Trantow57@hotmail.com",
+        "firstName": "Deangelo",
+        "lastName": "McCullough",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/737.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a5036aad-3678-4a96-8415-cf7ff421f526",
+        "email": "Izaiah_Quigley90@gmail.com",
+        "firstName": "Jeff",
+        "lastName": "Beatty",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1075.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d0878bcc-3267-405e-b33f-7bea7548227c",
+        "email": "Jaunita.Hermann75@yahoo.com",
+        "firstName": "Gerardo",
+        "lastName": "Gutkowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/6.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7373de7d-cebc-4e35-ae21-73edcdb559ac",
+        "email": "Jovany_Goldner92@gmail.com",
+        "firstName": "Priscilla",
+        "lastName": "Towne",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/757.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8ea50fe5-d44b-4dbb-b599-80adc1a809cf",
+        "email": "Sadie.Durgan@hotmail.com",
+        "firstName": "Riley",
+        "lastName": "Runolfsson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/507.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "offer": [
+      {
+        "id": "a2e5965e-2c10-4e4f-aaaf-f0e9b6b78236",
+        "title": "Software Engineer",
+        "description": "Join our team and work on cutting-edge projects",
+        "status": "Open",
+        "start_date": "2023-08-24T22:54:55.675Z",
+        "end_date": "2023-08-25T00:08:46.135Z",
+        "created_at": "2023-08-24T22:51:37.555Z",
+        "updated_at": "2023-08-25T05:11:22.948Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "061e04fa-2c18-49f1-9247-2983a0414152",
+        "title": "Marketing Specialist",
+        "description": "Help us grow our customer base and drive revenue",
+        "status": "Closed",
+        "start_date": "2023-08-25T16:32:44.072Z",
+        "end_date": "2023-08-25T12:37:46.241Z",
+        "created_at": "2023-08-24T22:50:15.518Z",
+        "updated_at": "2023-08-25T01:12:23.761Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d1eb31b1-b575-4387-a34f-64091b79157f",
+        "title": "Sales Representative",
+        "description": "Create visually stunning designs for our clients",
+        "status": "Pending",
+        "start_date": "2023-08-24T20:52:39.501Z",
+        "end_date": "2023-08-25T08:52:15.823Z",
+        "created_at": "2023-08-25T15:35:14.383Z",
+        "updated_at": "2023-08-24T23:17:53.683Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d3df90f6-df89-4e35-86f6-545562377a60",
+        "title": "Graphic Designer",
+        "description": "Provide exceptional support to our customers",
+        "status": "Accepted",
+        "start_date": "2023-08-25T10:23:18.119Z",
+        "end_date": "2023-08-25T08:45:54.587Z",
+        "created_at": "2023-08-25T01:30:53.707Z",
+        "updated_at": "2023-08-25T03:56:59.446Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "59fd4af6-db97-4c6a-bc0c-022c0b91a14e",
+        "title": "Customer Support Agent",
+        "description": "Contribute to the development of innovative software solutions",
+        "status": "Rejected",
+        "start_date": "2023-08-25T06:31:14.231Z",
+        "end_date": "2023-08-25T10:54:42.355Z",
+        "created_at": "2023-08-25T05:56:05.343Z",
+        "updated_at": "2023-08-24T19:46:36.692Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "task": [
+      {
+        "id": "73b72e44-e864-4569-a994-db87cca0053d",
+        "title": "Develop new feature",
+        "description": "Implement a feature that enhances user experience",
+        "status": "In progress",
+        "start_date": "2023-08-25T08:42:34.668Z",
+        "end_date": "2023-08-25T08:31:26.994Z",
+        "created_at": "2023-08-25T11:03:46.342Z",
+        "updated_at": "2023-08-25T05:28:59.992Z",
+        "offer_id": "d3df90f6-df89-4e35-86f6-545562377a60"
+      },
+      {
+        "id": "5be268f4-cc4f-4c86-b295-def7c9d6763f",
+        "title": "Create marketing campaign",
+        "description": "Plan and execute a campaign to increase brand awareness",
+        "status": "Completed",
+        "start_date": "2023-08-25T17:03:16.703Z",
+        "end_date": "2023-08-25T08:33:05.648Z",
+        "created_at": "2023-08-25T04:46:25.557Z",
+        "updated_at": "2023-08-25T17:12:35.396Z",
+        "offer_id": "d1eb31b1-b575-4387-a34f-64091b79157f"
+      },
+      {
+        "id": "5a9c99af-c65b-4585-bba2-c8fd50da053a",
+        "title": "Conduct market research",
+        "description": "Gather insights on market trends and competitors",
+        "status": "Pending",
+        "start_date": "2023-08-24T21:27:14.769Z",
+        "end_date": "2023-08-25T14:59:39.224Z",
+        "created_at": "2023-08-25T13:39:22.944Z",
+        "updated_at": "2023-08-25T07:54:49.235Z",
+        "offer_id": "59fd4af6-db97-4c6a-bc0c-022c0b91a14e"
+      },
+      {
+        "id": "1617ea4d-f5b1-4f09-b336-c8279ca54e3c",
+        "title": "Design user interface",
+        "description": "Design an intuitive and visually appealing interface",
+        "status": "On hold",
+        "start_date": "2023-08-25T12:10:42.153Z",
+        "end_date": "2023-08-24T20:18:45.511Z",
+        "created_at": "2023-08-25T10:25:47.302Z",
+        "updated_at": "2023-08-25T12:30:14.781Z",
+        "offer_id": "061e04fa-2c18-49f1-9247-2983a0414152"
+      },
+      {
+        "id": "d9b22dc4-ebc8-41f8-9b0e-6b5088471333",
+        "title": "Optimize website performance",
+        "description": "Identify and fix performance bottlenecks on the website",
+        "status": "Cancelled",
+        "start_date": "2023-08-25T17:03:19.391Z",
+        "end_date": "2023-08-24T22:46:33.363Z",
+        "created_at": "2023-08-25T03:34:28.788Z",
+        "updated_at": "2023-08-25T03:36:59.492Z",
+        "offer_id": "d1eb31b1-b575-4387-a34f-64091b79157f"
+      }
+    ],
+    "screenshot": [
+      {
+        "id": "b1616580-3799-4269-8380-03a12c3e1747",
+        "url": "https://example.com/screenshot1.png",
+        "upload_date": "2023-08-25T18:17:46.285Z",
+        "status": "Valid",
+        "created_at": "2023-08-25T03:00:00.825Z",
+        "updated_at": "2023-08-25T08:47:31.082Z",
+        "task_id": "73b72e44-e864-4569-a994-db87cca0053d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "545a5ffb-37e8-45c9-bbb5-1255e67e6af3",
+        "url": "https://example.com/screenshot2.png",
+        "upload_date": "2023-08-24T22:26:26.786Z",
+        "status": "Invalid",
+        "created_at": "2023-08-24T23:40:46.695Z",
+        "updated_at": "2023-08-24T22:18:04.419Z",
+        "task_id": "5be268f4-cc4f-4c86-b295-def7c9d6763f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "25c1e972-f446-401d-8188-aa39be6fcd26",
+        "url": "https://example.com/screenshot3.png",
+        "upload_date": "2023-08-25T17:00:50.613Z",
+        "status": "Processing",
+        "created_at": "2023-08-24T19:29:42.602Z",
+        "updated_at": "2023-08-25T04:47:45.050Z",
+        "task_id": "5be268f4-cc4f-4c86-b295-def7c9d6763f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e2dec2e-fb17-4928-999a-93010b59e9a8",
+        "url": "https://example.com/screenshot4.png",
+        "upload_date": "2023-08-25T18:52:22.900Z",
+        "status": "Approved",
+        "created_at": "2023-08-25T16:15:31.370Z",
+        "updated_at": "2023-08-25T08:36:03.760Z",
+        "task_id": "73b72e44-e864-4569-a994-db87cca0053d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a335cd18-914b-4fad-bd50-c099021bc862",
+        "url": "https://example.com/screenshot5.png",
+        "upload_date": "2023-08-25T17:50:46.812Z",
+        "status": "Rejected",
+        "created_at": "2023-08-25T03:34:30.868Z",
+        "updated_at": "2023-08-25T12:13:17.986Z",
+        "task_id": "5be268f4-cc4f-4c86-b295-def7c9d6763f",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "credit": [
+      {
+        "id": "1b15d755-d173-4e4c-bc74-6f484ba2b4e7",
+        "amount": 20880,
+        "credit_date": "2023-08-25T06:57:52.824Z",
+        "status": "Active",
+        "created_at": "2023-08-24T23:09:41.549Z",
+        "updated_at": "2023-08-25T07:19:47.795Z",
+        "task_id": "1617ea4d-f5b1-4f09-b336-c8279ca54e3c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "186b6ca6-8370-4fb2-994b-e415c251974d",
+        "amount": 78843,
+        "credit_date": "2023-08-25T18:05:07.015Z",
+        "status": "Inactive",
+        "created_at": "2023-08-24T21:11:46.176Z",
+        "updated_at": "2023-08-25T16:14:52.318Z",
+        "task_id": "1617ea4d-f5b1-4f09-b336-c8279ca54e3c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "59f24889-2811-4799-a0dc-1346919e5737",
+        "amount": 45295,
+        "credit_date": "2023-08-25T08:18:45.711Z",
+        "status": "Suspended",
+        "created_at": "2023-08-25T05:23:02.337Z",
+        "updated_at": "2023-08-25T03:03:23.201Z",
+        "task_id": "d9b22dc4-ebc8-41f8-9b0e-6b5088471333",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "575990eb-a75b-4b52-9947-42efe3abd227",
+        "amount": 97456,
+        "credit_date": "2023-08-24T21:01:19.462Z",
+        "status": "Expired",
+        "created_at": "2023-08-25T03:11:01.450Z",
+        "updated_at": "2023-08-25T16:34:26.253Z",
+        "task_id": "1617ea4d-f5b1-4f09-b336-c8279ca54e3c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a2583e63-47c1-41bc-80b5-48fb30094862",
+        "amount": 6487,
+        "credit_date": "2023-08-25T03:41:15.598Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-25T01:54:30.236Z",
+        "updated_at": "2023-08-25T00:41:11.629Z",
+        "task_id": "d9b22dc4-ebc8-41f8-9b0e-6b5088471333",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "97c16fcf-832f-40ca-819e-437d3fb0ef64",
+        "email": "Rigoberto.Abshire34@gmail.com",
+        "firstName": "Ernesto",
+        "lastName": "Tromp",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72609546",
+        "tenantId": null
+      },
+      {
+        "reference": "d9233934-a7e9-41db-bc85-8cf453e8a726",
+        "email": "Marcelino.Heidenreich@hotmail.com",
+        "firstName": "Stephan",
+        "lastName": "Senger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/763.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d28c9632-924c-4f28-8810-a1a5a6d0844e",
+        "email": "Jacynthe.Brown13@gmail.com",
+        "firstName": "Trycia",
+        "lastName": "Schinner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/47.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8679f8c0-c922-4ca7-8742-edfaa81adea7",
+        "email": "Katelyn49@yahoo.com",
+        "firstName": "Queenie",
+        "lastName": "Stracke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87175274",
+        "tenantId": null
+      },
+      {
+        "reference": "fd37e161-c0c0-4401-a9fe-1f9a1e912a90",
+        "email": "Felix_Bernier2@yahoo.com",
+        "firstName": "Gust",
+        "lastName": "Powlowski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53586415",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "offer": [
+      {
+        "id": "718fbe2f-b757-4621-a3dd-337d2b1454c5",
+        "title": "Software Engineer",
+        "description": "Join our team and help build cutting-edge software solutions",
+        "status": "Open",
+        "start_date": "2023-08-25T11:15:13.228Z",
+        "end_date": "2023-08-25T05:06:28.123Z",
+        "created_at": "2023-08-25T14:06:55.395Z",
+        "updated_at": "2023-08-25T15:57:23.943Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fa928106-24b8-4f21-95e1-8182885fb60a",
+        "title": "Marketing Manager",
+        "description": "Lead marketing campaigns and drive brand awareness",
+        "status": "Closed",
+        "start_date": "2023-08-25T00:18:56.353Z",
+        "end_date": "2023-08-25T12:44:48.905Z",
+        "created_at": "2023-08-25T01:13:26.297Z",
+        "updated_at": "2023-08-25T18:11:52.559Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8ea2b276-a48c-4b0e-a0a9-48a7235ec13a",
+        "title": "Sales Representative",
+        "description": "Grow our customer base by identifying new sales opportunities",
+        "status": "Pending",
+        "start_date": "2023-08-25T04:14:48.394Z",
+        "end_date": "2023-08-24T23:57:13.726Z",
+        "created_at": "2023-08-25T09:48:05.930Z",
+        "updated_at": "2023-08-24T22:14:54.222Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "46deb2e4-3304-4651-9c6b-57f35c2bd3a8",
+        "title": "Graphic Designer",
+        "description": "Create visually stunning designs for various projects",
+        "status": "Expired",
+        "start_date": "2023-08-25T00:29:21.552Z",
+        "end_date": "2023-08-25T01:49:53.967Z",
+        "created_at": "2023-08-25T15:41:59.479Z",
+        "updated_at": "2023-08-25T01:35:06.790Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a2c2040f-fd66-480b-b669-c26c98bb6857",
+        "title": "Data Analyst",
+        "description": "Analyze data to uncover valuable insights for business decision-making",
+        "status": "Accepted",
+        "start_date": "2023-08-25T16:23:40.252Z",
+        "end_date": "2023-08-25T11:59:24.773Z",
+        "created_at": "2023-08-25T00:39:24.744Z",
+        "updated_at": "2023-08-25T12:58:10.208Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "task": [
+      {
+        "id": "23012c2f-34da-4474-b670-d32d17d5e6a8",
+        "title": "Develop new feature",
+        "description": "Implement a feature that enhances user experience",
+        "status": "In progress",
+        "start_date": "2023-08-25T11:14:24.532Z",
+        "end_date": "2023-08-25T09:42:15.818Z",
+        "created_at": "2023-08-25T13:35:57.996Z",
+        "updated_at": "2023-08-24T19:27:11.080Z",
+        "offer_id": "46deb2e4-3304-4651-9c6b-57f35c2bd3a8"
+      },
+      {
+        "id": "abd38cc4-46b4-4425-b874-66044939beaa",
+        "title": "Write blog post",
+        "description": "Write an informative blog post about industry trends",
+        "status": "Completed",
+        "start_date": "2023-08-25T14:54:42.865Z",
+        "end_date": "2023-08-24T22:07:02.800Z",
+        "created_at": "2023-08-25T18:29:37.454Z",
+        "updated_at": "2023-08-25T09:57:18.341Z",
+        "offer_id": "a2c2040f-fd66-480b-b669-c26c98bb6857"
+      },
+      {
+        "id": "94759140-2118-4dd3-b19a-897a460992ed",
+        "title": "Prepare sales presentation",
+        "description": "Create a compelling sales presentation for potential clients",
+        "status": "Pending",
+        "start_date": "2023-08-25T18:28:32.365Z",
+        "end_date": "2023-08-25T04:51:55.988Z",
+        "created_at": "2023-08-25T06:01:13.651Z",
+        "updated_at": "2023-08-25T00:14:02.558Z",
+        "offer_id": "fa928106-24b8-4f21-95e1-8182885fb60a"
+      },
+      {
+        "id": "257a855d-d86b-45c9-8a90-2c6b7ded8068",
+        "title": "Design user interface",
+        "description": "Design an intuitive user interface for a mobile app",
+        "status": "On hold",
+        "start_date": "2023-08-25T16:22:34.242Z",
+        "end_date": "2023-08-25T05:06:02.011Z",
+        "created_at": "2023-08-24T20:16:12.090Z",
+        "updated_at": "2023-08-24T20:29:53.385Z",
+        "offer_id": "718fbe2f-b757-4621-a3dd-337d2b1454c5"
+      },
+      {
+        "id": "373c1505-2ef1-40df-baea-fbcd38e9f4ae",
+        "title": "Conduct data analysis",
+        "description": "Perform data analysis to identify patterns and trends",
+        "status": "Cancelled",
+        "start_date": "2023-08-25T09:07:17.168Z",
+        "end_date": "2023-08-24T20:42:27.875Z",
+        "created_at": "2023-08-24T20:53:47.018Z",
+        "updated_at": "2023-08-24T23:04:29.479Z",
+        "offer_id": "46deb2e4-3304-4651-9c6b-57f35c2bd3a8"
+      }
+    ],
+    "screenshot": [
+      {
+        "id": "f929b1a0-a32c-4e40-bcae-0b6316c7f2f9",
+        "url": "https://example.com/screenshot1.png",
+        "upload_date": "2023-08-24T21:09:12.984Z",
+        "status": "Success",
+        "created_at": "2023-08-24T23:03:25.985Z",
+        "updated_at": "2023-08-25T07:04:36.992Z",
+        "task_id": "23012c2f-34da-4474-b670-d32d17d5e6a8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9367b007-f4a5-4f67-9010-8e14ad5c0ef5",
+        "url": "https://example.com/screenshot2.png",
+        "upload_date": "2023-08-25T00:13:25.791Z",
+        "status": "Failure",
+        "created_at": "2023-08-24T21:07:01.886Z",
+        "updated_at": "2023-08-25T12:02:14.476Z",
+        "task_id": "257a855d-d86b-45c9-8a90-2c6b7ded8068",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7668bd33-a904-4f14-afd7-6ebca794e463",
+        "url": "https://example.com/screenshot3.png",
+        "upload_date": "2023-08-24T19:47:59.476Z",
+        "status": "Pending",
+        "created_at": "2023-08-25T14:40:28.520Z",
+        "updated_at": "2023-08-25T00:52:58.688Z",
+        "task_id": "94759140-2118-4dd3-b19a-897a460992ed",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "98b46081-d080-4b96-9761-8c664389ae62",
+        "url": "https://example.com/screenshot4.png",
+        "upload_date": "2023-08-25T07:53:51.476Z",
+        "status": "Processed",
+        "created_at": "2023-08-25T11:05:35.426Z",
+        "updated_at": "2023-08-25T04:05:34.559Z",
+        "task_id": "257a855d-d86b-45c9-8a90-2c6b7ded8068",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3ac7d7bd-9c0a-4f06-b515-7cee8621e353",
+        "url": "https://example.com/screenshot5.png",
+        "upload_date": "2023-08-25T11:20:26.747Z",
+        "status": "Error",
+        "created_at": "2023-08-25T08:16:42.364Z",
+        "updated_at": "2023-08-25T00:54:47.479Z",
+        "task_id": "94759140-2118-4dd3-b19a-897a460992ed",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "credit": [
+      {
+        "id": "190ecb11-e28b-40e1-8718-dc1755a7f291",
+        "amount": 70223,
+        "credit_date": "2023-08-25T11:41:31.277Z",
+        "status": "Active",
+        "created_at": "2023-08-25T13:15:03.411Z",
+        "updated_at": "2023-08-25T10:16:12.058Z",
+        "task_id": "94759140-2118-4dd3-b19a-897a460992ed",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dee05d3c-c3cb-4985-aa7c-373b93a2a83e",
+        "amount": 32694,
+        "credit_date": "2023-08-25T13:52:26.856Z",
+        "status": "Inactive",
+        "created_at": "2023-08-25T17:12:46.915Z",
+        "updated_at": "2023-08-25T05:34:45.892Z",
+        "task_id": "94759140-2118-4dd3-b19a-897a460992ed",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b08d63f-df52-463b-ae51-d44aaddb0cf2",
+        "amount": 34224,
+        "credit_date": "2023-08-25T18:33:28.534Z",
+        "status": "Pending",
+        "created_at": "2023-08-25T07:09:33.874Z",
+        "updated_at": "2023-08-25T17:57:58.141Z",
+        "task_id": "373c1505-2ef1-40df-baea-fbcd38e9f4ae",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "adaef1e0-d3c6-4577-b9d9-ff0832f40d86",
+        "amount": 80375,
+        "credit_date": "2023-08-25T06:12:54.650Z",
+        "status": "Expired",
+        "created_at": "2023-08-25T06:16:29.608Z",
+        "updated_at": "2023-08-25T03:29:58.547Z",
+        "task_id": "373c1505-2ef1-40df-baea-fbcd38e9f4ae",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "caf89010-0fea-46f9-9153-d2fc364b9bb7",
+        "amount": 1433,
+        "credit_date": "2023-08-24T20:18:32.982Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-25T13:44:18.933Z",
+        "updated_at": "2023-08-25T10:02:24.469Z",
+        "task_id": "94759140-2118-4dd3-b19a-897a460992ed",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ed6e2383-65a9-43b1-b82c-bc0dbdd1d7d0",
+        "email": "Daniella.Kovacek@hotmail.com",
+        "firstName": "Peter",
+        "lastName": "Berge",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/736.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a97f297e-adaf-4682-b921-469678879641",
+        "email": "Hollis16@gmail.com",
+        "firstName": "Valerie",
+        "lastName": "Rath",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93737068",
+        "tenantId": null
+      },
+      {
+        "reference": "be3d1be5-752b-4ac0-b905-f5623dc77b0e",
+        "email": "Alayna85@hotmail.com",
+        "firstName": "Ruben",
+        "lastName": "Bins",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41661946",
+        "tenantId": null
+      },
+      {
+        "reference": "df2d5c9f-9405-4e56-b788-b22c29306e96",
+        "email": "Jaylan.Hessel56@hotmail.com",
+        "firstName": "Godfrey",
+        "lastName": "Buckridge",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/86.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0436ea63-fbdd-439e-893f-0c76d0ef2c71",
+        "email": "Lauretta81@gmail.com",
+        "firstName": "Urban",
+        "lastName": "Homenick",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36788453",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "offer": [
+      {
+        "id": "07fe7b82-e6e1-4d43-a896-71804dc59534",
+        "title": "Software Engineer",
+        "description": "Seeking a talented software engineer with experience in Python and Django",
+        "status": "Open",
+        "start_date": "2023-08-25T13:42:33.033Z",
+        "end_date": "2023-08-25T14:57:44.119Z",
+        "created_at": "2023-08-25T04:27:42.149Z",
+        "updated_at": "2023-08-25T01:27:37.976Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6cb4214b-ffab-40e9-9d86-07652c999a32",
+        "title": "Marketing Specialist",
+        "description": "Join our dynamic marketing team and help drive growth",
+        "status": "Closed",
+        "start_date": "2023-08-25T11:30:33.244Z",
+        "end_date": "2023-08-25T08:31:42.686Z",
+        "created_at": "2023-08-24T19:41:53.029Z",
+        "updated_at": "2023-08-25T09:08:10.236Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "72b1cd37-6975-4345-9498-9b4b370a48f2",
+        "title": "Project Manager",
+        "description": "Manage complex projects and deliver results on time",
+        "status": "Pending",
+        "start_date": "2023-08-25T18:49:07.672Z",
+        "end_date": "2023-08-25T01:33:45.001Z",
+        "created_at": "2023-08-25T09:46:52.820Z",
+        "updated_at": "2023-08-25T10:16:06.984Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d8d70fd2-9c07-4253-b427-1a05f5682a13",
+        "title": "Sales Representative",
+        "description": "Build relationships with clients and close sales deals",
+        "status": "Approved",
+        "start_date": "2023-08-25T14:53:51.302Z",
+        "end_date": "2023-08-25T07:37:23.855Z",
+        "created_at": "2023-08-24T22:26:00.100Z",
+        "updated_at": "2023-08-24T21:35:34.818Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9b56789d-3bb8-4b84-9565-1e2afd3aaa47",
+        "title": "Data Analyst",
+        "description": "Analyze data and provide insights to support business decisions",
+        "status": "Rejected",
+        "start_date": "2023-08-25T07:26:11.029Z",
+        "end_date": "2023-08-25T13:05:39.210Z",
+        "created_at": "2023-08-25T17:24:15.495Z",
+        "updated_at": "2023-08-25T14:48:41.516Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "task": [
+      {
+        "id": "53f1207c-baa6-450a-99c4-3dedd0ed9473",
+        "title": "Develop new feature",
+        "description": "Implement a new feature based on user requirements",
+        "status": "In progress",
+        "start_date": "2023-08-25T05:02:25.510Z",
+        "end_date": "2023-08-25T05:56:36.679Z",
+        "created_at": "2023-08-25T18:10:21.784Z",
+        "updated_at": "2023-08-25T00:24:42.986Z",
+        "offer_id": "d8d70fd2-9c07-4253-b427-1a05f5682a13"
+      },
+      {
+        "id": "0cfd430d-baa5-484e-b019-b454f7f2de8c",
+        "title": "Create marketing campaign",
+        "description": "Design and execute a multi-channel marketing campaign",
+        "status": "Completed",
+        "start_date": "2023-08-25T18:48:43.671Z",
+        "end_date": "2023-08-25T06:54:10.482Z",
+        "created_at": "2023-08-24T19:21:15.938Z",
+        "updated_at": "2023-08-24T23:08:26.068Z",
+        "offer_id": "72b1cd37-6975-4345-9498-9b4b370a48f2"
+      },
+      {
+        "id": "d4b09f3f-fc01-4e9e-a5b7-8b1c780c500a",
+        "title": "Coordinate team meetings",
+        "description": "Schedule and facilitate team meetings to ensure collaboration",
+        "status": "Pending",
+        "start_date": "2023-08-25T07:08:24.775Z",
+        "end_date": "2023-08-25T08:42:28.443Z",
+        "created_at": "2023-08-25T13:42:22.695Z",
+        "updated_at": "2023-08-25T00:48:32.716Z",
+        "offer_id": "d8d70fd2-9c07-4253-b427-1a05f5682a13"
+      },
+      {
+        "id": "a1276dc6-43de-4731-bcc0-e7115cc88ce4",
+        "title": "Follow up with clients",
+        "description": "Communicate with clients to address their needs and concerns",
+        "status": "On hold",
+        "start_date": "2023-08-25T05:46:03.841Z",
+        "end_date": "2023-08-25T14:10:09.643Z",
+        "created_at": "2023-08-25T15:53:16.462Z",
+        "updated_at": "2023-08-25T10:55:08.015Z",
+        "offer_id": "6cb4214b-ffab-40e9-9d86-07652c999a32"
+      },
+      {
+        "id": "96f3c43f-a1ec-4736-9ce7-17c08c668244",
+        "title": "Conduct data analysis",
+        "description": "Analyze data using statistical methods and present findings",
+        "status": "Cancelled",
+        "start_date": "2023-08-25T11:39:50.719Z",
+        "end_date": "2023-08-25T02:40:58.508Z",
+        "created_at": "2023-08-25T06:57:23.169Z",
+        "updated_at": "2023-08-25T14:51:36.406Z",
+        "offer_id": "72b1cd37-6975-4345-9498-9b4b370a48f2"
+      }
+    ],
+    "screenshot": [
+      {
+        "id": "3eeacc0d-fb78-4b8d-9942-4ceb8b2db225",
+        "url": "https://example.com/screenshot1.png",
+        "upload_date": "2023-08-25T03:19:29.142Z",
+        "status": "Active",
+        "created_at": "2023-08-25T11:11:02.294Z",
+        "updated_at": "2023-08-25T15:08:36.263Z",
+        "task_id": "96f3c43f-a1ec-4736-9ce7-17c08c668244",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "208d4b10-415a-4704-8886-bac9567b4a13",
+        "url": "https://example.com/screenshot2.png",
+        "upload_date": "2023-08-24T19:56:17.269Z",
+        "status": "Inactive",
+        "created_at": "2023-08-25T02:38:13.659Z",
+        "updated_at": "2023-08-25T04:39:11.768Z",
+        "task_id": "a1276dc6-43de-4731-bcc0-e7115cc88ce4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "76f66403-79f7-4499-9c30-95a61f7a9ded",
+        "url": "https://example.com/screenshot3.png",
+        "upload_date": "2023-08-25T13:40:36.378Z",
+        "status": "Pending",
+        "created_at": "2023-08-25T15:52:57.292Z",
+        "updated_at": "2023-08-25T04:57:43.605Z",
+        "task_id": "53f1207c-baa6-450a-99c4-3dedd0ed9473",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f7f55ba4-a0b2-48ea-be3a-541407513f38",
+        "url": "https://example.com/screenshot4.png",
+        "upload_date": "2023-08-25T05:34:06.228Z",
+        "status": "Approved",
+        "created_at": "2023-08-25T14:28:40.621Z",
+        "updated_at": "2023-08-25T03:57:40.365Z",
+        "task_id": "d4b09f3f-fc01-4e9e-a5b7-8b1c780c500a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ac22ff4d-87ce-4493-a023-5359b454558f",
+        "url": "https://example.com/screenshot5.png",
+        "upload_date": "2023-08-25T10:37:23.357Z",
+        "status": "Rejected",
+        "created_at": "2023-08-25T08:59:41.885Z",
+        "updated_at": "2023-08-24T22:43:20.927Z",
+        "task_id": "d4b09f3f-fc01-4e9e-a5b7-8b1c780c500a",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "credit": [
+      {
+        "id": "b8b8192f-9854-4d83-b626-3165a647549a",
+        "amount": 13913,
+        "credit_date": "2023-08-25T00:39:07.169Z",
+        "status": "Active",
+        "created_at": "2023-08-25T02:05:35.388Z",
+        "updated_at": "2023-08-25T02:19:12.107Z",
+        "task_id": "a1276dc6-43de-4731-bcc0-e7115cc88ce4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "35dbe527-deee-4864-80d3-0de45c0c6b81",
+        "amount": 63005,
+        "credit_date": "2023-08-25T13:23:47.438Z",
+        "status": "Inactive",
+        "created_at": "2023-08-25T03:22:28.107Z",
+        "updated_at": "2023-08-24T23:16:45.288Z",
+        "task_id": "96f3c43f-a1ec-4736-9ce7-17c08c668244",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e3bdfe43-0499-4847-849c-666117930b34",
+        "amount": 79821,
+        "credit_date": "2023-08-25T09:54:31.270Z",
+        "status": "Pending",
+        "created_at": "2023-08-25T15:38:37.251Z",
+        "updated_at": "2023-08-24T21:48:20.240Z",
+        "task_id": "d4b09f3f-fc01-4e9e-a5b7-8b1c780c500a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ce2df003-ee57-48e9-8c1c-d3f0d2bd7590",
+        "amount": 85160,
+        "credit_date": "2023-08-24T22:02:15.776Z",
+        "status": "Approved",
+        "created_at": "2023-08-25T08:51:06.929Z",
+        "updated_at": "2023-08-25T11:14:54.269Z",
+        "task_id": "96f3c43f-a1ec-4736-9ce7-17c08c668244",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b8c7c294-d637-4c8e-951b-78bd0ea88a6e",
+        "amount": 49805,
+        "credit_date": "2023-08-25T15:24:32.847Z",
+        "status": "Rejected",
+        "created_at": "2023-08-25T02:34:26.084Z",
+        "updated_at": "2023-08-25T18:48:23.017Z",
+        "task_id": "0cfd430d-baa5-484e-b019-b454f7f2de8c",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "88991dd4-35d2-4e61-ba8f-f56606d09f31",
+        "email": "Peggie_Franey27@hotmail.com",
+        "firstName": "Maudie",
+        "lastName": "Ruecker",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/233.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d0c00461-1cc8-4a2f-8f6c-411b3ba58b7d",
+        "email": "Leonel63@yahoo.com",
+        "firstName": "Hershel",
+        "lastName": "Welch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13571233",
+        "tenantId": null
+      },
+      {
+        "reference": "81d0bab3-4c06-4a0a-8d23-59ef75a3ceca",
+        "email": "Margaretta_Moen24@gmail.com",
+        "firstName": "Brice",
+        "lastName": "Conroy",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41200865",
+        "tenantId": null
+      },
+      {
+        "reference": "8264889a-09f9-4295-8f5a-05f7aa885067",
+        "email": "Loren_Cummings@hotmail.com",
+        "firstName": "Laury",
+        "lastName": "Olson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92916157",
+        "tenantId": null
+      },
+      {
+        "reference": "7aed9aef-8a0d-4ecd-9456-54b0978e4690",
+        "email": "Dianna_Gutkowski53@hotmail.com",
+        "firstName": "Adell",
+        "lastName": "Smitham",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/349.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "offer": [
+      {
+        "id": "7e626455-85d9-4629-8ca6-ef2bef8dd280",
+        "title": "Job Opportunity",
+        "description": "Apply now for a rewarding career",
+        "status": "Active",
+        "start_date": "2023-08-25T08:13:49.799Z",
+        "end_date": "2023-08-24T23:32:53.540Z",
+        "created_at": "2023-08-25T10:15:53.656Z",
+        "updated_at": "2023-08-25T07:50:01.215Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ddf4634d-5ae9-4495-a219-0f58e56bb84c",
+        "title": "Special Discount",
+        "description": "Get 50% off on selected items",
+        "status": "Expired",
+        "start_date": "2023-08-25T10:07:21.883Z",
+        "end_date": "2023-08-25T00:46:09.964Z",
+        "created_at": "2023-08-25T18:07:44.995Z",
+        "updated_at": "2023-08-25T00:55:36.013Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8b3ffd4f-0ff4-4d7f-9788-3287a7612e75",
+        "title": "Exclusive Deal",
+        "description": "Don't miss out on this amazing offer",
+        "status": "Upcoming",
+        "start_date": "2023-08-25T05:57:50.658Z",
+        "end_date": "2023-08-25T17:14:26.035Z",
+        "created_at": "2023-08-25T10:14:39.142Z",
+        "updated_at": "2023-08-25T12:04:37.351Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "56113970-6dcf-4df9-9ed3-4b4a6efbb982",
+        "title": "Limited Time Offer",
+        "description": "Hurry, limited quantities available",
+        "status": "Ongoing",
+        "start_date": "2023-08-25T00:04:32.165Z",
+        "end_date": "2023-08-25T07:46:59.925Z",
+        "created_at": "2023-08-25T05:41:20.195Z",
+        "updated_at": "2023-08-25T17:45:19.353Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "81c4a865-d185-4167-9bf7-84638992b5a0",
+        "title": "New Product Launch",
+        "description": "Discover our latest collection",
+        "status": "Sold Out",
+        "start_date": "2023-08-24T23:32:38.288Z",
+        "end_date": "2023-08-25T11:24:28.407Z",
+        "created_at": "2023-08-25T17:25:17.446Z",
+        "updated_at": "2023-08-25T03:47:47.289Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "task": [
+      {
+        "id": "9dc6dcb9-d1fb-4fc7-b93e-81342b3b4807",
+        "title": "Complete Project Report",
+        "description": "Compile all project data into a comprehensive report",
+        "status": "Pending",
+        "start_date": "2023-08-25T14:46:42.360Z",
+        "end_date": "2023-08-25T10:29:12.800Z",
+        "created_at": "2023-08-25T08:02:56.444Z",
+        "updated_at": "2023-08-25T16:31:13.004Z",
+        "offer_id": "7e626455-85d9-4629-8ca6-ef2bef8dd280"
+      },
+      {
+        "id": "2f20e327-eba4-491b-8eab-82dfcaa10b08",
+        "title": "Prepare Presentation",
+        "description": "Create a visually appealing presentation for client meeting",
+        "status": "In Progress",
+        "start_date": "2023-08-25T00:38:34.761Z",
+        "end_date": "2023-08-25T11:04:55.870Z",
+        "created_at": "2023-08-25T04:53:27.297Z",
+        "updated_at": "2023-08-25T11:59:12.063Z",
+        "offer_id": "7e626455-85d9-4629-8ca6-ef2bef8dd280"
+      },
+      {
+        "id": "cf4fa37a-5d44-43d8-8f5a-b1061ced0ae5",
+        "title": "Review Marketing Strategy",
+        "description": "Analyze and provide feedback on current marketing strategy",
+        "status": "Completed",
+        "start_date": "2023-08-25T00:50:37.024Z",
+        "end_date": "2023-08-24T23:15:22.767Z",
+        "created_at": "2023-08-25T15:08:01.532Z",
+        "updated_at": "2023-08-25T00:26:49.101Z",
+        "offer_id": "56113970-6dcf-4df9-9ed3-4b4a6efbb982"
+      },
+      {
+        "id": "6ba885b5-5255-40d2-a0ab-35129b84fe48",
+        "title": "Organize Team Meeting",
+        "description": "Schedule and coordinate a team meeting",
+        "status": "On Hold",
+        "start_date": "2023-08-25T04:44:24.293Z",
+        "end_date": "2023-08-24T21:20:43.221Z",
+        "created_at": "2023-08-25T18:30:47.469Z",
+        "updated_at": "2023-08-24T21:46:46.823Z",
+        "offer_id": "81c4a865-d185-4167-9bf7-84638992b5a0"
+      },
+      {
+        "id": "6a2be784-3d4a-4493-a2b2-0e46e6e20d90",
+        "title": "Develop New Feature",
+        "description": "Implement a new feature based on client requirements",
+        "status": "Cancelled",
+        "start_date": "2023-08-25T17:46:42.793Z",
+        "end_date": "2023-08-25T06:24:56.864Z",
+        "created_at": "2023-08-25T07:44:31.831Z",
+        "updated_at": "2023-08-25T02:31:03.200Z",
+        "offer_id": "7e626455-85d9-4629-8ca6-ef2bef8dd280"
+      }
+    ],
+    "screenshot": [
+      {
+        "id": "d8cf15a5-e93c-43a8-bde6-c143e49d7623",
+        "url": "https://example.com/screenshot1.png",
+        "upload_date": "2023-08-25T13:50:30.520Z",
+        "status": "Success",
+        "created_at": "2023-08-25T12:39:24.602Z",
+        "updated_at": "2023-08-25T01:47:43.538Z",
+        "task_id": "cf4fa37a-5d44-43d8-8f5a-b1061ced0ae5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5bcbabfd-b2fe-4f32-8098-f491c913d5b6",
+        "url": "https://example.com/screenshot2.png",
+        "upload_date": "2023-08-25T01:51:00.844Z",
+        "status": "Failed",
+        "created_at": "2023-08-25T17:34:45.911Z",
+        "updated_at": "2023-08-25T03:17:04.440Z",
+        "task_id": "9dc6dcb9-d1fb-4fc7-b93e-81342b3b4807",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a948976e-dac8-48bc-ac17-a3af1746daac",
+        "url": "https://example.com/screenshot3.png",
+        "upload_date": "2023-08-25T13:04:51.118Z",
+        "status": "Processing",
+        "created_at": "2023-08-25T03:42:57.901Z",
+        "updated_at": "2023-08-25T09:22:49.379Z",
+        "task_id": "cf4fa37a-5d44-43d8-8f5a-b1061ced0ae5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "322e3b4c-1ecf-4f3d-b4d7-0ff26a0db468",
+        "url": "https://example.com/screenshot4.png",
+        "upload_date": "2023-08-25T07:15:50.962Z",
+        "status": "Pending",
+        "created_at": "2023-08-25T19:11:06.009Z",
+        "updated_at": "2023-08-25T12:10:41.946Z",
+        "task_id": "2f20e327-eba4-491b-8eab-82dfcaa10b08",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0514d4b0-2adf-4f42-bf21-bdbf942d34aa",
+        "url": "https://example.com/screenshot5.png",
+        "upload_date": "2023-08-24T21:41:13.722Z",
+        "status": "Verified",
+        "created_at": "2023-08-25T15:32:12.831Z",
+        "updated_at": "2023-08-25T17:54:52.214Z",
+        "task_id": "6a2be784-3d4a-4493-a2b2-0e46e6e20d90",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "credit": [
+      {
+        "id": "f40bfcb5-bb78-45c1-b3f4-a031efc0e9b9",
+        "amount": 26652,
+        "credit_date": "2023-08-25T11:50:01.101Z",
+        "status": "Active",
+        "created_at": "2023-08-25T16:13:03.491Z",
+        "updated_at": "2023-08-25T19:14:59.247Z",
+        "task_id": "6a2be784-3d4a-4493-a2b2-0e46e6e20d90",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1621be19-a240-47c7-8156-075e8323cdf3",
+        "amount": 80828,
+        "credit_date": "2023-08-25T13:46:06.106Z",
+        "status": "Expired",
+        "created_at": "2023-08-25T15:02:37.264Z",
+        "updated_at": "2023-08-25T00:58:46.382Z",
+        "task_id": "9dc6dcb9-d1fb-4fc7-b93e-81342b3b4807",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4953b728-6b51-4de6-9979-db205f02a2b5",
+        "amount": 31416,
+        "credit_date": "2023-08-25T08:26:31.501Z",
+        "status": "Suspended",
+        "created_at": "2023-08-25T03:42:47.564Z",
+        "updated_at": "2023-08-25T15:03:31.514Z",
+        "task_id": "2f20e327-eba4-491b-8eab-82dfcaa10b08",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "84e1d7e1-6105-4187-957e-dfc6262b149c",
+        "amount": 54043,
+        "credit_date": "2023-08-25T02:53:42.659Z",
+        "status": "Pending",
+        "created_at": "2023-08-25T15:48:19.675Z",
+        "updated_at": "2023-08-25T01:46:17.274Z",
+        "task_id": "6ba885b5-5255-40d2-a0ab-35129b84fe48",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8eb13827-e861-426a-abc0-d1b2ad86e842",
+        "amount": 91090,
+        "credit_date": "2023-08-25T15:48:08.131Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-24T23:52:52.730Z",
+        "updated_at": "2023-08-24T22:19:29.374Z",
+        "task_id": "6ba885b5-5255-40d2-a0ab-35129b84fe48",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2cd5151f-9deb-41a4-8468-dbdca3aad802",
+        "email": "Gladyce_Hirthe73@hotmail.com",
+        "firstName": "Tracey",
+        "lastName": "King",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71435144",
+        "tenantId": null
+      },
+      {
+        "reference": "1b8b7916-8ab4-44e3-85d4-d2a24b563062",
+        "email": "Al65@yahoo.com",
+        "firstName": "Maia",
+        "lastName": "Nolan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/742.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "466902dd-dde5-451d-86cf-4a4d1c638115",
+        "email": "Clyde.Strosin@gmail.com",
+        "firstName": "Joel",
+        "lastName": "Hilpert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49351334",
+        "tenantId": null
+      },
+      {
+        "reference": "c402567e-4679-410a-9b20-03c4d7e96106",
+        "email": "Jody_Morissette@hotmail.com",
+        "firstName": "Kiera",
+        "lastName": "Hettinger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/545.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "576fcad4-114f-4df4-9d2e-ecf021ce1c92",
+        "email": "Bobbie_Jast70@yahoo.com",
+        "firstName": "Alexis",
+        "lastName": "Bosco",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1132.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "offer": [
+      {
+        "id": "d39f72a8-b54f-4263-9b7f-4d3538b2a79a",
+        "title": "Job Opportunity",
+        "description": "Apply now and join our team!",
+        "status": "Active",
+        "start_date": "2023-08-25T17:38:15.866Z",
+        "end_date": "2023-08-25T18:15:59.050Z",
+        "created_at": "2023-08-25T00:22:16.489Z",
+        "updated_at": "2023-08-24T22:26:09.101Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "23fe0b65-1282-4942-8c14-ef3561d129f5",
+        "title": "Special Discount",
+        "description": "Get 50% off on selected items",
+        "status": "Expired",
+        "start_date": "2023-08-25T05:24:14.526Z",
+        "end_date": "2023-08-24T21:07:33.371Z",
+        "created_at": "2023-08-25T07:59:02.589Z",
+        "updated_at": "2023-08-25T02:31:08.929Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "66dccc19-607d-4efb-bda3-b222bbf1bf0c",
+        "title": "Exclusive Deal",
+        "description": "Don't miss out on this amazing offer",
+        "status": "Ongoing",
+        "start_date": "2023-08-25T08:14:33.694Z",
+        "end_date": "2023-08-25T13:32:24.874Z",
+        "created_at": "2023-08-25T16:06:48.146Z",
+        "updated_at": "2023-08-25T01:43:54.600Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3f097546-50c6-4a1e-ac11-be9c715ee91b",
+        "title": "Limited Time Offer",
+        "description": "Hurry, offer ends soon",
+        "status": "Upcoming",
+        "start_date": "2023-08-24T23:44:26.088Z",
+        "end_date": "2023-08-25T13:53:11.744Z",
+        "created_at": "2023-08-25T08:49:13.637Z",
+        "updated_at": "2023-08-25T05:43:24.295Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "96a598d7-fb44-436f-97e3-36df85371e20",
+        "title": "Free Trial",
+        "description": "Experience our product for free",
+        "status": "Closed",
+        "start_date": "2023-08-25T11:35:55.180Z",
+        "end_date": "2023-08-25T02:23:02.966Z",
+        "created_at": "2023-08-25T18:20:30.894Z",
+        "updated_at": "2023-08-24T21:20:27.810Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "task": [
+      {
+        "id": "6f240acf-e068-4ed5-b20b-317b46d63a8b",
+        "title": "Complete Project Report",
+        "description": "Finish the report by end of the week",
+        "status": "Pending",
+        "start_date": "2023-08-25T15:21:49.073Z",
+        "end_date": "2023-08-25T08:11:11.015Z",
+        "created_at": "2023-08-25T09:20:49.202Z",
+        "updated_at": "2023-08-25T06:27:07.241Z",
+        "offer_id": "66dccc19-607d-4efb-bda3-b222bbf1bf0c"
+      },
+      {
+        "id": "10d6c986-0ecd-4ac0-a8fb-3aa0ea2b5bc2",
+        "title": "Attend Team Meeting",
+        "description": "Discuss project updates with the team",
+        "status": "In Progress",
+        "start_date": "2023-08-25T13:14:40.896Z",
+        "end_date": "2023-08-25T00:26:47.218Z",
+        "created_at": "2023-08-25T17:35:50.068Z",
+        "updated_at": "2023-08-25T02:10:54.378Z",
+        "offer_id": "3f097546-50c6-4a1e-ac11-be9c715ee91b"
+      },
+      {
+        "id": "3a9b6758-f26c-4c79-af1f-bef1e96e19e6",
+        "title": "Prepare Presentation",
+        "description": "Create a compelling presentation for the client",
+        "status": "Completed",
+        "start_date": "2023-08-25T11:08:42.775Z",
+        "end_date": "2023-08-25T07:15:28.110Z",
+        "created_at": "2023-08-24T20:49:59.989Z",
+        "updated_at": "2023-08-25T13:37:49.749Z",
+        "offer_id": "66dccc19-607d-4efb-bda3-b222bbf1bf0c"
+      },
+      {
+        "id": "bd06f28d-c2fd-4c5d-ad5f-48b62a8336b8",
+        "title": "Review Documents",
+        "description": "Thoroughly review all documents for accuracy",
+        "status": "On Hold",
+        "start_date": "2023-08-24T19:41:55.550Z",
+        "end_date": "2023-08-25T18:24:03.527Z",
+        "created_at": "2023-08-24T21:55:23.856Z",
+        "updated_at": "2023-08-25T08:53:28.161Z",
+        "offer_id": "96a598d7-fb44-436f-97e3-36df85371e20"
+      },
+      {
+        "id": "9aa5d76d-962c-4601-8e53-5c0c6420bdbb",
+        "title": "Submit Final Deliverables",
+        "description": "Ensure all deliverables are submitted on time",
+        "status": "Cancelled",
+        "start_date": "2023-08-25T10:14:45.123Z",
+        "end_date": "2023-08-25T17:27:10.704Z",
+        "created_at": "2023-08-25T10:46:58.418Z",
+        "updated_at": "2023-08-25T02:25:59.357Z",
+        "offer_id": "3f097546-50c6-4a1e-ac11-be9c715ee91b"
+      }
+    ],
+    "screenshot": [
+      {
+        "id": "a8a7f6ba-79ff-401f-ab01-0fe1dddcd277",
+        "url": "https://example.com/screenshot1.png",
+        "upload_date": "2023-08-24T23:36:20.552Z",
+        "status": "Success",
+        "created_at": "2023-08-25T07:52:49.141Z",
+        "updated_at": "2023-08-25T14:13:35.017Z",
+        "task_id": "6f240acf-e068-4ed5-b20b-317b46d63a8b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "92c8f0a8-ee0d-4e03-9ea2-622c57d2ed55",
+        "url": "https://example.com/screenshot2.png",
+        "upload_date": "2023-08-25T16:00:45.264Z",
+        "status": "Failed",
+        "created_at": "2023-08-25T18:54:37.944Z",
+        "updated_at": "2023-08-25T15:19:27.449Z",
+        "task_id": "6f240acf-e068-4ed5-b20b-317b46d63a8b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6b03506e-4710-4b0d-9411-aab250b05c36",
+        "url": "https://example.com/screenshot3.png",
+        "upload_date": "2023-08-25T02:16:12.484Z",
+        "status": "Processing",
+        "created_at": "2023-08-25T10:08:41.798Z",
+        "updated_at": "2023-08-25T17:38:06.881Z",
+        "task_id": "9aa5d76d-962c-4601-8e53-5c0c6420bdbb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f9d2a47b-bdf4-4dd1-bec9-40602016b864",
+        "url": "https://example.com/screenshot4.png",
+        "upload_date": "2023-08-25T11:40:14.650Z",
+        "status": "Pending",
+        "created_at": "2023-08-25T09:43:51.119Z",
+        "updated_at": "2023-08-25T00:47:12.469Z",
+        "task_id": "bd06f28d-c2fd-4c5d-ad5f-48b62a8336b8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4fcb6284-0474-4ead-b7b9-5cc7f2dc3f2f",
+        "url": "https://example.com/screenshot5.png",
+        "upload_date": "2023-08-25T03:31:20.289Z",
+        "status": "Completed",
+        "created_at": "2023-08-25T09:23:45.599Z",
+        "updated_at": "2023-08-25T00:01:37.367Z",
+        "task_id": "9aa5d76d-962c-4601-8e53-5c0c6420bdbb",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "credit": [
+      {
+        "id": "7e5c417d-6e7a-42a5-b76f-5edc7544c9f9",
+        "amount": 4107,
+        "credit_date": "2023-08-25T15:21:12.289Z",
+        "status": "Active",
+        "created_at": "2023-08-25T05:55:56.054Z",
+        "updated_at": "2023-08-25T18:01:00.198Z",
+        "task_id": "3a9b6758-f26c-4c79-af1f-bef1e96e19e6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1c85af9d-08bf-43db-bdec-220b9e5ac53b",
+        "amount": 32303,
+        "credit_date": "2023-08-25T10:48:45.391Z",
+        "status": "Inactive",
+        "created_at": "2023-08-24T23:33:53.159Z",
+        "updated_at": "2023-08-25T16:54:46.291Z",
+        "task_id": "6f240acf-e068-4ed5-b20b-317b46d63a8b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1c65501b-df71-4d36-b107-30794382ed67",
+        "amount": 34576,
+        "credit_date": "2023-08-25T06:51:58.461Z",
+        "status": "Suspended",
+        "created_at": "2023-08-25T18:32:44.601Z",
+        "updated_at": "2023-08-25T05:08:01.106Z",
+        "task_id": "9aa5d76d-962c-4601-8e53-5c0c6420bdbb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2cf9cff3-e3b2-4e01-8ee7-11d3b1118e83",
+        "amount": 29828,
+        "credit_date": "2023-08-25T04:42:43.740Z",
+        "status": "Expired",
+        "created_at": "2023-08-25T05:05:06.336Z",
+        "updated_at": "2023-08-25T03:46:19.548Z",
+        "task_id": "3a9b6758-f26c-4c79-af1f-bef1e96e19e6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8689d179-8dda-4cb0-800c-fdcc2826ad39",
+        "amount": 90425,
+        "credit_date": "2023-08-25T06:00:21.401Z",
+        "status": "Cancelled",
+        "created_at": "2023-08-25T16:58:05.087Z",
+        "updated_at": "2023-08-25T19:07:29.200Z",
+        "task_id": "3a9b6758-f26c-4c79-af1f-bef1e96e19e6",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e2ba70a3-0463-46d3-b159-56cf8b35c46b",
+        "email": "Constantin_Homenick@gmail.com",
+        "firstName": "Murl",
+        "lastName": "Heathcote",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1089.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "80dbf07c-ceb2-4b50-8868-7b0660f04302",
+        "email": "Khalil_Reynolds@gmail.com",
+        "firstName": "Rhoda",
+        "lastName": "Stamm",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18667490",
+        "tenantId": null
+      },
+      {
+        "reference": "fe780e57-f72d-42ef-a59b-f786916d4c4a",
+        "email": "Josianne_Bins54@hotmail.com",
+        "firstName": "Clifton",
+        "lastName": "Watsica-Shields",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97220743",
+        "tenantId": null
+      },
+      {
+        "reference": "a4e5e307-47a0-4a4b-837f-a0aa525b70ed",
+        "email": "Green_Boehm-Barrows5@gmail.com",
+        "firstName": "Tierra",
+        "lastName": "Hoeger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1148.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7f2ae8b9-9e46-40fc-b501-e88e33409d83",
+        "email": "Marcelino.Beahan99@gmail.com",
+        "firstName": "Deanna",
+        "lastName": "Kunde",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39321749",
+        "tenantId": null
+      }
+    ]
+  }
+]
